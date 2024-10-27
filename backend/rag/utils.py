@@ -2,12 +2,17 @@ import openai
 import os
 from pinecone import Pinecone, ServerlessSpec
 from langchain_community.llms import OpenAI  # Use the correct module for OpenAI
-from decouple import config  # Import config from python-decouple
+from dotenv import load_dotenv
+import os
 
-# Load API keys from the .env file
-openai_api_key = config('OPENAI_API_KEY')
-pinecone_api_key = config('PINECONE_API_KEY')
-pinecone_index_name = config('PINECONE_INDEX')
+# Load environment variables from .env
+load_dotenv()
+
+# Now you can access your variables using os.environ
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+pinecone_api_key = os.environ.get('PINECONE_API_KEY')
+pinecone_index_name = os.environ.get('PINECONE_INDEX')
+
 
 # Set up OpenAI (this only needs to be done once)
 llm = OpenAI(temperature=0.0)
