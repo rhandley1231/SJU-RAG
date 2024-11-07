@@ -6,22 +6,28 @@ from langchain_core.messages import HumanMessage, AIMessage
 from dotenv import load_dotenv
 import uuid
 import os
+from pinecone import Pinecone, ServerlessSpec
+from langchain_community.llms import OpenAI  # Use the correct module for OpenAI
+from dotenv import load_dotenv
+import os
 
-load_dotenv()  # Load environment variables from .env
+# Load environment variables from .env
+load_dotenv()
 
-# Retrieve API keys from environment variables
-openai_api_key = os.getenv('OPENAI_API_KEY')
-pinecone_api_key = os.getenv('PINECONE_API_KEY')
-index_name = os.getenv('PINECONE_INDEX')
+# Now you can access your variables using os.environ
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+pinecone_api_key = os.environ.get('PINECONE_API_KEY')
+pinecone_index_name = os.environ.get('PINECONE_INDEX')
+
 
 # Check for required keys
-if not openai_api_key or not pinecone_api_key or not index_name:
+if not openai_api_key or not pinecone_api_key or not pinecone_index_name:
     raise ValueError("API keys and index name must be set as environment variables.")
 
 # Initialize OpenAI and Pinecone
 embeddings = OpenAIEmbeddings(api_key=openai_api_key)
 vectorstore = PineconeVectorStore(
-    index_name=index_name,
+    index_name=pinecone_index_name,
     embedding=embeddings,
     pinecone_api_key=pinecone_api_key
 )

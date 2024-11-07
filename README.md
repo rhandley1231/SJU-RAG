@@ -5,7 +5,6 @@ This repository is for the CUS 690 Capstone class, building a RAG application fo
 -  React frontend
 - Django backend
 - PostgreSQL database
-- 
 eventually host on AWS should we plan to scale this for the IT department's purposes
   
 ## Team ##
