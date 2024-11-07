@@ -1,14 +1,15 @@
-// src/App.jsx
-
 import React from 'react';
-import Chatbot from './components/ChatBot';  // Import ChatBot component
+import ChatBot from './components/ChatBot';
+import './assets/ChatBot.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Welcome to the ChatBot App</h1>
-      <Chatbot />  {/* Render the ChatBot */}
-    </div>
+    <>
+      <div className="header">Welcome to the Johnny Bot</div>
+      <div className="main-content">
+        <ChatBot />
+      </div>
+    </>
   );
 }
 
