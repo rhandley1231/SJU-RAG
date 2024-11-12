@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
-import './ChatBoxStyle.css';
+import '../assets/ChatBoxStyle.css';
 import logo from './st-johns-logo.png';
 
 const ChatBot = () => {
