@@ -49,19 +49,20 @@ chatbot_chain = ConversationalRetrievalChain.from_llm(
     return_source_documents=True
 )
 
-# Session storage to manage chat history per session
+# Global session storage for chat histories
 session_store = {}
 
 def get_session_history(session_id):
     """Retrieve or initialize chat history for a session."""
     if session_id not in session_store:
-        session_store[session_id] = InMemoryChatMessageHistory()  # Use InMemoryChatMessageHistory for easier handling
+        session_store[session_id] = InMemoryChatMessageHistory()
     return session_store[session_id]
 
 def conversational_rag(question, session_id=None):
     """Handles a conversational query, storing and using session history."""
+    # Generate a new session ID if not provided
     if not session_id:
-        session_id = str(uuid.uuid4())  # Generate a new session ID if not provided
+        session_id = str(uuid.uuid4())
     
     # Retrieve or initialize chat history for this session
     chat_history = get_session_history(session_id)
@@ -72,7 +73,7 @@ def conversational_rag(question, session_id=None):
     # Run the question with the chatbot chain
     response = chatbot_chain.invoke({
         "question": question,
-        "chat_history": chat_history.messages  # Use the chat history messages directly
+        "chat_history": chat_history.messages  # Pass the chat history messages directly
     })
     
     answer = response['answer']
@@ -81,9 +82,9 @@ def conversational_rag(question, session_id=None):
     # Add the assistant's response to the chat history
     chat_history.add_ai_message(answer)
     
-    # Format chat history as a list of role-content pairs
+    # Format chat history for frontend
     formatted_history = [
-        ("user", msg.content) if isinstance(msg, HumanMessage) else ("assistant", msg.content)
+        {"role": "user", "content": msg.content} if isinstance(msg, HumanMessage) else {"role": "assistant", "content": msg.content}
         for msg in chat_history.messages
     ]
     
@@ -91,5 +92,5 @@ def conversational_rag(question, session_id=None):
         'answer': answer,
         'chat_history': formatted_history,
         'source_documents': source_documents,
-        'session_id': session_id
+        'session_id': session_id  # Return session ID for reuse
     }
