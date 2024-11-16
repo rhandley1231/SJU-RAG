@@ -1,12 +1,11 @@
 # SJU-RAG
-This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website
+This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website.  This project utilizes LangChain, OpenAI's LLM API's, and Pinecone for advanced vector search.  Combined with Django for a scalable, resilent backend and an intuitive React UI, we provice seamless AI-driven knowledge access.
   
 ## Stack ##
--  React frontend
+- React frontend
 - Django backend
-- PostgreSQL database
-eventually host on AWS should we plan to scale this for the IT department's purposes
-  
+- Pinecone database
+
 ## Team ##
 - Ryan: Team Leader, Full Stack 
 - Jomo: Full Stack
@@ -15,3 +14,17 @@ eventually host on AWS should we plan to scale this for the IT department's purp
 - Elena: Backend & Databases
 - Joshua: Backend & Databases, Project Management
 - Jordan: Backend & Databases, Project Management
+
+### Steps to Reproduce ###
+- APIs:
+    - You'll need to create a `.env` file containing your own API keys.  You'll need the following:
+        - OpenAI API Key
+        - Pinecone API Key
+        - Pinecone Index Name
+- Frontend Reproduction:
+    - Run `npm install` in the RAG-Frintend directory
+    - Run `npm run dev` to start the frontend
+- Backend Reproduction:
+    - Ensure you are using Python version 3.9.18
+    - In the main directory -- `SJU-Rag` -- run `source venv/bin/activate` to activate the virtual environment
+    - Cd into the backend folder and run `python manage.py runserver` to start the backend
