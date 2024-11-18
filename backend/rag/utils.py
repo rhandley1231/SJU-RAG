@@ -36,7 +36,7 @@ vectorstore = PineconeVectorStore(
 llm = ChatOpenAI(
     openai_api_key=openai_api_key,
     model_name='gpt-3.5-turbo',
-    temperature=0.4
+    temperature=0.1
 )
 
 # Initialize the retriever from the vector store

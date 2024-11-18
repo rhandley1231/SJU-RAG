@@ -1,17 +1,20 @@
 import React from 'react';
 import ChatBot from './components/ChatBot';
-import './assets/ChatBot.css';
+//import './assets/ChatBot.css';
+import './App.css'
 
-function App() {
+const App = () => {
   return (
-    <>
-      <div className="header">Welcome to the Johnny Bot</div>
-      <div className="main-content">
+    <div id="root">
+      <header className="header">
+        <h1>Welcome to Johnny Bot</h1>
+      </header>
+      <main className="main-content">
         <ChatBot />
-      </div>
-    </>
+      </main>
+    </div>
   );
-}
+};
 
 export default App;
 
