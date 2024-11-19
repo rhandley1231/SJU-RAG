@@ -1,0 +1,1675 @@
+Rank,Question,Bot Response,Confidence
+1,solutions technology new student,"**Welcome to St. John's University**
+
+**[SignOn:](https://signon.stjohns.edu)** 
+
+<br/>Use it to identify yourself and access internet services.  Your username will be in the format of firstname.lastnameYY@my.stjohns.edu (ex: jane.doe21@my.stjohns.edu).  
+
+**[Email:](https://outlook.office.com/owa/)** 
+
+<br/>A Microsoft Office 365 email account has been created for you.  Just connect to [SignOn](https://signon.stjohns.edu/) and then click on Office 365 Mail.
+
+[**Connect**](https://connect.stjohns.edu) is the University's internal information portal - also on [Apple](https://apps.apple.com/us/app/sju-connect/id1623710314) and [Android](https://play.google.com/store/apps/details?id=com.ucroo.stjohns)
+
+For more general information, visit the [New Student Guide Checklist](https://www.stjohns.edu/admission/undergraduate-admission/new-student-guide-checklist).
+
+General Information
+
+Logging into Signon for the First Time
+
+Help with Wifi
+
+Point to: ""solutions signon first time student""
+
+Point to: ""Solutions wifi""",high
+17,live agent,"Point to: ""solutions agent""",high
+22,solutions application,"To apply to **St. John's University**, follow the instructions listed [here](https://www.stjohns.edu/admission/apply).",high
+23,solutions common technology employee,"**Welcome to St. John's University**
+
+What do you need help with?
+
+Here are some quick choices:
+- [General SignOn Information](https://ithelp.stjohns.edu/support/solutions/articles/16000010232)  or [Video] (https://www.youtube.com/watch?v=Dl4OnF7nlrE)<br/>
+- [Changing your password information](https://ithelp.stjohns.edu/support/solutions/articles/16000016496-how-do-i-change-my-email-password-or-security-information-mfa-for-signon-stjohns-edu-) or [Video](https://www.youtube.com/watch?v=npapsg6TTm0)
+- [Resetting your password information](https://ithelp.stjohns.edu/support/solutions/articles/16000016145) or [Video](https://www.youtube.com/watch?v=bPZI6iF6aVo)
+- [Setting up Multi-factor Authentication information](https://ithelp.stjohns.edu/a/solutions/articles/16000016496) or [video](https://www.youtube.com/watch?v=uTqNhA7ss9k)
+
+Students, Faculty, Administrators, and Staff should use
+[SJUMobile](https://ithelp.stjohns.edu/support/solutions/articles/16000015825).
+<br/><br/>
+Guests should use 
+[SJUGuest.](https://ithelp.stjohns.edu/support/solutions/articles/16000032592)
+
+If you are interested in connecting your **Console** or **Smart Speakers**, visit the [Gaming Connect page.](https://ithelp.stjohns.edu/support/solutions/articles/16000016013)
+
+IT Appointments can be made by visiting the [Appointments page.](https://outlook.office365.com/owa/calendar/ITServiceCenter1@mystjohns.onmicrosoft.com/bookings/)
+
+If something is not working as expected, you can open a ticket for a problem at the [ticketing page](https://ithelp.stjohns.edu/support/tickets/new).
+<br/><br/>
+If you need access or new hardware you can browse our [Service Catalog](https://ithelp.stjohns.edu/support/catalog/items) and request service.
+
+Ellucian On-Demand Training
+
+Help with SignOn
+
+Connecting to WiFi
+
+Wireless Printing
+
+Make an IT Appointment
+
+Request IT Help
+
+Point to: ""solutions printing""",high
+24,request transcript,"Point to: ""request transcript""",high
+25,cant log in,"Point to: ""solutions signon first time""",high
+26,solutions unlock account,"To unlock your account follow the instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000043317-how-do-i-unlock-my-account-for-signon-stjohns-edu-).
+
+<br/>Click on the **Unlock** link at the bottom of the [SignOn](https://signon.stjohns.edu/) portal and follow the provided instructions.
+
+https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTYwMTQxOTU1MzUsImRvbWFpbiI6InN0am9obnN1bml2ZXJzaXR5LmZyZXNoc2VydmljZS5jb20iLCJ0eXBlIjoxfQ.7iam1zYwQMJlmGa_rmOj4vNkYCFvHjOM4IfMWuvbIu0
+
+SignOn Portal
+
+https://signon.stjohns.edu/
+
+If you need further assistance, please give the Service Desk a call at [718-990-5000](tel:718-990-5000). After verifying your identity, we can help you unlock your account. Our business hours are Mon - Fri, 7:30 AM to 7:30 PM.",high
+27,how much is tuition,"Point to: ""solutions tuition""",high
+28,sorry to bother you,"Great, how can I help you?",high
+29,sso,"The single sign-on (SSO) process at St. John's University involves using the OKTA system. Users need to enter their OKTA/St. John’s credentials, similar to the process at ""signon.stjohns.edu"". This system allows the University Community to stay connected and access various resources, including St. John's Connect and the University Information System (UIS). For securing forms, users navigate to the Form’s Settings tab, select ""Security"", choose ""Single Sign-On (SSO)"" under ""Form Password"", and then select ""SignOn Connection (SAML 2.0)"" for form authentication.",high
+30,good morning my name is blake blackwell,,none
+31,solutions reset mfa,"Follow the instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016496) on how to update your MFA.
+
+If you need further assistance, please give the Service Desk a call at [718-990-5000](tel:718-990-5000). After verifying your identity, we can help you reset your MFA. Our business hours are Mon - Fri, 7:30 AM to 7:30 PM.",high
+32,yes,,low
+33,can you please show me the academic calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+34,solutions uis,"Current students, faculty, administrators and staff should use:
+
+<br/>[SignOn](https://signon.stjohns.edu) for UIS
+
+<br/>Newly accepted student and former employees and students may access [UIS here](https://www.stjohns.edu/uis)
+
+<br/>You can find more instructions on how to log onto [UIS here](https://ithelp.stjohns.edu/support/solutions/articles/16000055000-uis-guide-frequently-asked-questions-help)  ",high
+35,transcript,"Point to: ""solutions transcript""",high
+36,solutions wifi,"Students, Faculty, Administrators, and Staff should use
+[SJUMobile](https://ithelp.stjohns.edu/support/solutions/articles/16000015825).
+
+<br/>
+Guests should use 
+[SJUGuest.](https://ithelp.stjohns.edu/support/solutions/articles/16000032592)
+
+If you are interested in connecting your **Console** or **Smart Speakers**, visit the [Gaming Connect page.](https://ithelp.stjohns.edu/support/solutions/articles/16000016013)",high
+37,canvas,Canvas is accessible for current St. John's students or employees. Canvas can be found by logging into the [Sign-On Portal](https://signon.stjohns.edu).,high
+38,uis,"Point to: ""solutions uis""",high
+39,medicat,,low
+40,my account is locked,"To unlock your account, follow the instructions provided [here](https://ithelp.stjohns.edu/support/solutions/articles/16000043317-how-do-i-unlock-my-account-for-signon-stjohns-edu-). You can also click on the **Unlock** link at the bottom of the [SignOn](https://signon.stjohns.edu/) portal and follow the instructions. If you need further assistance, contact the Service Desk at 718-990-5000 during business hours, Mon - Fri, 7:30 AM to 7:30 PM. If you had previously registered a recovery method, you can reset your account on your own by visiting the same [page](https://ithelp.stjohns.edu/support/solutions/articles/16000043317-how-do-i-unlock-my-account-for-signon-stjohns-edu-).",high
+41,where can i find my schedule,"You can find your class schedule at St. John's University using the following methods:
+
+1. **Mobile App**: Install and log in to the St. John's University Connect App on your phone or tablet. Once logged in, locate the tile labeled “Student Schedule” to see the course name, date/time, and class location, as well as a link to email your professor directly. For installation instructions, visit [How do I install and set up the SJU Connect App?](https://ithelp.stjohns.edu/support/solutions/articles/16000057912).
+
+2. **Web Version**: Log in to the Sign-On portal and click “Connect.” The schedule will be displayed on the right side of the page with the course name, date/time, and class location, as well as a link to email your professor directly.
+
+3. **New UIS Experience**: Log in to St. John’s Connect, click on “New UIS Experience,” scroll down to the card labeled “Registration,” and click on the tab that says “Look Up a Schedule.” Select the term you are looking for to see the dates and times for each class.
+
+For assistance, visit [St. John's IT Help](https://ithelp.stjohns.edu) or call the Service",high
+42,solutions deadlines,"Which deadlines are you asking about?
+
+https://www.stjohns.edu/admission/undergraduate-admission/deadlines-notifications
+
+Undergraduate Deadlines
+
+https://www.stjohns.edu/admission/graduate-admission/graduate-admission-deadlines-and-notifications
+
+Graduate Deadlines
+
+Undegraduate Deadlines
+
+Graduate Deadlines",high
+43,how do i log in,"Point to: ""solutions signon first time""",high
+44,undergraduate,,low
+45,ok,"If you have any more questions or need further assistance, feel free to ask!",high
+46,i need a transcript,"Point to: ""solutions transcript""",high
+47,how do i access my email,You can access your e-mail by logging into [Sign-On](https://signon.stjohns.edu) and clicking the Office 365 Mail icon.<br>,high
+48,phone number,"The phone number for Information Technology Support is [718-990-5000](tel:7189905000), available Monday - Friday from 7:30am until 7:30pm EST.",high
+49,make an appointment with advisor,"Point to: ""advisement""",high
+50,i forgot my password,"**Default password:** 
+<br/>Sjxxxxxxxx (where xxxxxxxx is your Storm Card ID card number) 
+<br/>**This is the eight digit number on the front of your Photo ID card. It is not your X number.**
+
+<br/>If you forget the password you created, follow this [video](https://youtu.be/bPZI6iF6aVo) on how to reset your forgotten password or follow the instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016145-i-forgot-my-password-to-log-in-to-the-sign-on-portal-how-do-i-reset-my-account-).",high
+51,how do i change my major,"If you want to change your major at St. John's University, you can email admhelp@stjohns.edu with your name, date of birth, and the major for which you would now like to apply. If you are a continuing student, you should complete the Internal Transfer Request Form on the [New UIS Experience](https://connect.stjohns.edu/) widget.",high
+52,email address,"Point to: ""solutions signon first time""",high
+53,solutions forgot password,"**Default password:** Sjxxxxxxxx (where xxxxxxxx is your Storm Card ID card number) 
+<br/>**This is the eight digit number on the front of your Photo ID card. It is not your X number.**
+
+<br/>Follow this [video](https://youtu.be/bPZI6iF6aVo) on how to reset your forgotten password or follow the instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016145-i-forgot-my-password-to-log-in-to-the-sign-on-portal-how-do-i-reset-my-account-).
+
+https://youtu.be/bPZI6iF6aVo",high
+54,log in,"To log in to your account at St. John's University, follow these steps:
+
+1. Go to [signon.stjohns.edu](https://signon.stjohns.edu).
+2. Your username is your St. John's email, formatted as firstname.lastnameYY@my.stjohns.edu, where YY is the two-digit year you entered the university.
+3. Your default password is Sjxxxxxxxx, where xxxxxxxx is your Storm Card ID card number (the eight-digit number on the front of your Photo ID card, not your X number).
+4. First-time users can watch a [video](https://youtu.be/LGEuKQzLTmY?list=PLZ4iYhOa7b8hV9JAgYkbHusJl7pD_b67K) for guidance on signing in.
+5. For more detailed instructions, visit [this page](https://ithelp.stjohns.edu/support/solutions/articles/16000010232-how-do-i-log-in-to-the-sign-on-okta-portal-at-signon-stjohns-edu-).
+
+If you are logging into Formstack, follow these additional steps:
+
+1. Navigate to [formstack.com](http://formstack.com/).
+2. Select",high
+55,help,What can I help with?,high
+56,where are you located,"Point to: ""address""",high
+57,address,"St. John's University is located at 8000 Utopia Parkway, Queens, NY 11439. The university also has a campus in Rome and locations in Paris and Limerick. For directions and more information, visit [Find Us](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).",high
+58,when does the spring classes start,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+59,how to pay tuition,"Point to: ""solutions payment""",high
+60,advisement,"The [Center for Student Success](https://www.stjohns.edu/academics/centers-institutes/center-student-success) advises first-year students. The [Office of Transfer Student Services](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students/transfer-student-services#:~:text=For%20more%20information%20contact%20our,at%20Tsshelp%40stjohns.edu) advises entering transfer students. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+61,solutions reset uis,Please refer to the [following Solutions webpage](https://ithelp.stjohns.edu/support/solutions/articles/16000034380).,high
+62,login to uis,"St. John’s UIS (University Information System) is a one-stop resource for secure, personalized, access to critical information about your personal academic and financial aid information at St. John’s University. Due to federal privacy regulations, parents do not have direct access to student records but they may wish to discuss the opportunity to view and use the various online options available to students via UIS.
+
+<br/>UIS can be used to:
+- Check Financial Aid status at the University
+- Check disbursements to your student account
+- Sign up for a Payment Plan
+- Make payments to St. John's
+
+<br/>Current students should use [connect.stjohns.edu](https://connect.stjohns.edu/) or use the connect app on your smart phone and choose the New UIS Experience widget.",high
+63,how can i find my academic advisor,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+64,its not working,"Point to: ""solutions agent""",high
+65,who should i contact about graduating,Students can visit our [Commencement](https://www.stjohns.edu/academics/commencement/) page to help prepare for graduation. Students should contact their advisor to confirm your eligibility to graduate.,high
+66,test it livechat,"Point to: ""solutions agent""",high
+67,calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+68,how do i drop a class,"To drop a class at St. John's University, you can use the St. John's University Information System (UIS) to drop the class in the same way you registered for it. Web registration is available through the last day of the first week of the semester. Note that you can drop classes via the Web as long as you are not dropping all your classes. If you want to drop all your classes, you must inform your Dean in writing. During the second and third weeks of the semester, you need permission from your Dean’s Office to drop a class. Bring this permission to the Office of the Registrar, and they will drop the class for you. Classes dropped through the first three weeks of the semester do not appear on your transcript.",high
+69,i am majoring in undecided peter j tobin college of business,,low
+70,pay bill,"To pay your bill at St. John's University, you can follow these steps:
+
+1. **Online Payment:**
+   - Login to Connect via the mobile app or [https://connect.stjohns.edu](https://connect.stjohns.edu/).
+   - Click on the widget for New UIS.
+   - Search for the “Student Accounts” card.
+   - Select the Account Suite- eBills/Payments link.
+   - Choose the term you want to view and pay from the drop-down menu.
+   - View your current charges and any memoed or eligible authorized aid.
+   - Scroll down and click on the blue link ""Make Payment/Enroll in Payment Plan"" to proceed to the payment portal.
+
+2. **Pay by Check:**
+   - Make checks payable to St. John's University and include your student ID number.
+   - Include the payment invoice with your check.
+   - Send your check and invoice to:
+     - St. John’s University
+     - Student Financial Services
+     - 8000 Utopia Parkway
+     - Queens, NY 11439
+
+Please note that St. John's University charges a $50 penalty fee for returned checks and chargeback credit card payments.",high
+71,financial aid,"Would you like to speak with someone from Student Financial Services?
+
+For **Student Financial Services** questions:
+
+<br/>Send an email to [**studentfinancialserv@stjohns.edu**](mailto:studentfinancialserv@stjohns.edu).
+
+<br/>You can call us at [(718) 990-2000](tel:7189902000)  (Mon.-Thurs. 8:30am-4:30pm, Fri. 8:30am-3pm.)
+
+Yes
+
+No",high
+72,email,"A Microsoft Office 365 **[email](https://outlook.office.com/owa/)** account has been created for you.  
+
+<br/>You can access your email by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the Connect app on your smartphone and clicking on Office 365 Mail icon.",high
+73,hi i cant log into my account,"Point to: ""solutions signon first time""",high
+74,where is st johns located,"St. John's University is located at 8000 Utopia Parkway, Queens, NY 11439. The university also has a campus in Rome and locations in Paris and Limerick. For directions and more information, visit [Find Us](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).",high
+75,what is your mascot,"Point to: ""what is your mascot?""",high
+76,solutions payment,"To make a payment or apply for a payment plan, visit the online payment portal today through the [New UIS Experience](https://connect.stjohns.edu/). 
+
+<br/>Look for **Student Accounts** and select **Account Suite - eBills/Payments**
+<br/>to view the term bill.",high
+77,solutions jobs,"[University Career Services](https://www.stjohns.edu/life-st-johns/career-services)  provides programs and services that create opportunities for students, alumni, faculty, and employers to engage in mutually beneficial partnerships that meet the needs of an evolving and global workforce. 
+
+<br/>
+Information about St. John's University job opportunities is listed [here.](https://www.stjohns.edu/about/leadership-and-administration/administrative-offices/human-resources/recruitment)
+
+<br/>
+Current students can visit [Student Employment](https://www.stjohns.edu/recruitment/student-employment) for on-campus job opportunities.",high
+78,reset password,Please refer to the [Reset Password Solutions webpage](https://ithelp.stjohns.edu/support/solutions/articles/16000016145) for instructions.,high
+79,i have a question about graduation,"Point to: ""who should i contact about graduating?""",high
+80,unlock account,"To unlock your account at St. John's University, follow these steps:
+
+1. Click on the Unlock link at the bottom of the login screen on [https://signon.stjohns.edu](https://signon.stjohns.edu/).
+
+2. On the unlock screen, enter your entire SJU email address that you use to login. Then, choose ""Send SMS"" or ""Voice Call.""
+
+3. Enter the verification code that is automatically sent to you, and click the VERIFY button.
+
+4. You will be prompted to answer the security question that you created when you set up your account.
+
+5. If your answer matches what you created, you will receive a confirmation message.
+
+If these steps do not work, please call the Service Desk at 718-990-5000, Monday to Friday, 7:30 AM to 7:30 PM EST, and press option 2. Have your X number available and be prepared to confirm additional information to verify your identity.",high
+81,i need a offical transcript,"Official electronic transcripts from St. John's University can be ordered from the [Parchment website](https://www.parchment.com/u/registration/33150/account) if you attended after 1989, with a service fee. You can also request official and unofficial transcripts via [UIS](https://www.stjohns.edu/uis). If you attended or graduated prior to 1990, follow the instructions for mail-in requests [here](https://www.stjohns.edu/academics/office-registrar#transcript). Law School students should refer to the [Law School Office of the Registrar](https://www.stjohns.edu/law/student-services/office-registrar) for instructions.",high
+82,how do i unlock my account,"Point to: ""solutions unlock account""",high
+83,where can i see my schedule,"You can view your class schedule at St. John's University through the following methods:
+
+1. **Mobile App**: Install and log in to the St. John’s University Connect App on your phone or tablet. Once logged in, locate the tile labeled “Student Schedule” to see the course name, date/time, and class location, as well as a link to email your professor directly. Instructions for installation can be found [here](https://ithelp.stjohns.edu/support/solutions/articles/16000057912).
+
+2. **Web Version**: Log in to the Sign-On portal and click “Connect.” The schedule will be displayed on the right side of the page with the course name, date/time, and class location, as well as a link to email your professor directly.
+
+3. **New UIS Experience**: Log in to St. John’s Connect, click on “New UIS Experience,” scroll down to the card labeled “Registration,” and click on the tab that says “Look Up a Schedule.” Select the term you are looking for to see the dates and times for each class. You can also view all registered classes in a calendar format.
+
+For assistance, visit [St. John's University Service Desk](https://ithelp.stjohns.edu) or",high
+84,make an appointment,"To make an appointment with Information Technology at St. John's University, follow these steps:
+
+1. Log in to [https://signon.stjohns.edu](https://signon.stjohns.edu). If you need help logging in, refer to the guide: [How do I log in to Signon.stjohns.edu?](https://ithelp.stjohns.edu/support/solutions/articles/16000010232).
+
+2. Once logged in, click on the app labeled ""Technology Appointments.""
+
+3. Use your SJU email address to request an appointment, as it is required for confirmation.
+
+4. Choose a date with available appointments and select a time from the list. Click “Continue” to proceed.
+
+5. A confirmation page will appear with the details of your appointment, and a reminder email will be sent 24 hours and 1 hour before the appointment.
+
+Note: In-person appointments have a strict schedule. If you are more than 10 minutes late, your appointment may be canceled, and you will need to reschedule.",high
+85,application deadlines,"Point to: ""solutions deadlines""",high
+86,housing,"Point to: ""solutions housing portal""",high
+87,what time,,none
+88,what high school classes are required for a bachelors degree,"Select programs have a minimum GPA or course requirement(s) for program consideration. Visit [Majors and Programs of Study](https://www.stjohns.edu/academics/programs) to find your program of study and admission requirements. 
+<br/> 
+If you do not see a major or program of study, [Connect With Us](https://www.stjohns.edu/admission/connect-us) to further discuss your options.
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+89,where can i find my class schedule,"You can find your class schedule at St. John's University using the following methods:
+
+1. **Mobile App**: Install and log in to the St. John’s University Connect App on your phone or tablet. Once logged in, locate the tile labeled “Student Schedule” to see the course name, date/time, and class location, as well as a link to email your professor directly. For installation instructions, visit [How do I install and set up the SJU Connect App?](https://ithelp.stjohns.edu/support/solutions/articles/16000057912).
+
+2. **Web Version**: Log in to the Sign-On portal and click “Connect.” Your schedule will be displayed on the right side of the page with the course name, date/time, and class location, along with a link to email your professor directly.
+
+3. **New UIS Experience**: Log in to St. John’s Connect, click on “New UIS Experience,” scroll down to the card labeled “Registration,” and click on the tab that says “Look Up a Schedule.” Select the term you are looking for to see the dates and times for each class. You can also view all registered classes in a calendar format by clicking on Schedule.
+
+For further assistance, visit [St.",high
+90,i am transfer student from nassau community college,"St. John’s University and Nassau Community College are excited to announce this unique and beneficial program for our students. As a result of this agreement, students applying to NCC can make their future intention to transfer to STJ known during the application process.  When this is done, NCC students will be given exclusive opportunities to visit the STJ campus and work directly with our esteemed faculty and professional staff to make their transition as smooth as possible.  In addition, NCC students transferring to STJ are guaranteed a priority admission and scholarship decision. This agreement is also applicable to currently enrolled students at NCC.
+
+Go here for more information on [transferring from Nassau to St. Johns](https://www.stjohns.edu/admission/we-see-you/community-college-partnerships/nassau-community-college).",high
+91,solutions speak to financial aid,"Would you like to speak with someone from Student Financial Services?
+
+For **Student Financial Services** questions:
+
+<br/>Send an email to [**studentfinancialserv@stjohns.edu**](mailto:studentfinancialserv@stjohns.edu).
+
+<br/>You can call us at [(718) 990-2000](tel:7189902000)  (Mon.-Thurs. 8:30am-4:30pm, Fri. 8:30am-3pm.)
+
+Yes
+
+No",high
+92,i am transfer student from ncc,"As a transfer student from Nassau Community College, you have the opportunity to participate in a unique program with St. John’s University. This program allows you to express your intention to transfer to St. John’s during your application process at NCC. You will receive exclusive opportunities to visit the St. John’s campus and work with faculty and staff to ensure a smooth transition. Additionally, you are guaranteed a priority admission and scholarship decision. You may also qualify for the Stay on Long Island Initiative, which offers full-tuition and partial scholarships, provided you are scheduled to earn your Associate Degree. For more information, you can visit [transferring from Nassau to St. Johns](https://www.stjohns.edu/admission/we-see-you/community-college-partnerships/nassau-community-college) or contact Nassau Community College staff at 516-572-7696 or [transfer@ncc.edu](mailto:transfer@ncc.edu).",high
+93,what are the hours of operation for the gym,"For the most up to date information on Fitness Center hours, classes, and events, visit [here](https://www.stjohns.edu/queens-residential-campus/campus-recreation/recreation-opportunities#:~:text=Fitness%20Center%20Hours%3A,Sunday%3A%20Noon%20to%207%20p.m).",high
+94,how can i find course descriptions at st johns university,Course descriptions and offerings can be found on our [Bulletin](https://www.stjohns.edu/academics/academic-resources-and-programs/bulletins).,high
+95,when is the first day of classes,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+96,parchment,"Point to: ""solutions transcript""",high
+97,majors,"St. John's University offers the following majors:
+
+**Bachelor of Arts:**
+- Anthropology
+- Art History
+- Asian Studies
+- Communication Studies
+- Economics
+- English
+- Environmental Sustainability and Decision-Making
+- French
+- Global Development and Sustainability
+- Government and Politics
+- History
+- Italian
+- Mathematics
+- Philosophy
+- Psychology
+- Public Administration and Public Service
+- Social Studies
+- Sociology
+- Spanish
+- Speech-Language Pathology and Audiology
+- Theology
+
+**Bachelor of Science:**
+- Biochemistry
+- Biology
+- Chemistry
+- Computer Science
+- Computing and Machine Learning
+- Environmental Science
+- Mathematical Physics
+- Mathematics
+- Physical Science
+- Physics
+
+**Bachelor of Fine Arts:**
+- Fine Arts
+- Graphic Design
+- Illustration
+- Photography
+
+Some programs are available only on specific campuses, with combined B.A./M.A. or B.S./M.S. programs available for certain majors.",high
+98,housing application,"Students planning to live on-campus must submit their non-refundable housing deposit by the deadline. To learn more about the housing deposit deadline and housing process, visit [Housing Selection](https://www.stjohns.edu/queens-residential-campus/residence-life/housing-selection). For room and board rates, visit [here](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board).
+
+<br/>
+If the deadline has passed, contact the Customer Service Center at [718-990-2000](tel:7189902000).
+
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+99,how can i use email for log in not phone number,"You currently can't use email as a MFA method.
+
+Point to: ""solutions setup mfa""",high
+100,yes i will like to apply for scholarship,"Point to: ""how do i get a scholarship to this school?""",high
+101,admissions,"To apply to **St. John's University**, follow the instructions listed [here](https://www.stjohns.edu/admission/apply).",high
+102,can international students receive an application fee waiver,"St. John’s offers a free online application for all 100+ undergraduate programs, and graduate applications carry a low cost for most programs. To apply or learn more about the application process visit [Apply](https://www.stjohns.edu/admission/apply).",high
+103,campus tour calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+104,scholarship opportunities,"St. John's University offers a range of scholarship opportunities, including:
+
+- [Undergraduate Student Scholarships](https://www.stjohns.edu/admission/scholarships)
+- [Transfer Student Scholarships](https://www.stjohns.edu/admission/scholarships/transfer-student-scholarships)
+- [International Student Scholarships](https://www.stjohns.edu/admission/international-admission/faqs)
+- [Graduate Student Scholarships](https://www.stjohns.edu/admission/graduate-admission/graduate-scholarships)",high
+105,scholarships,"St. John's University offers a range of scholarships including undergraduate student scholarships, transfer student scholarships, international student scholarships, and graduate student scholarships. You can find more information on these scholarships at the following links: 
+
+- [Undergraduate Student Scholarships](https://www.stjohns.edu/admission/scholarships)
+- [Transfer Student Scholarships](https://www.stjohns.edu/admission/scholarships/transfer-student-scholarships)
+- [International Student Scholarships](https://www.stjohns.edu/admission/international-admission/faqs)
+- [Graduate Student Scholarships](https://www.stjohns.edu/admission/graduate-admission/graduate-scholarships)",high
+106,register for orientation,"To register for orientation at St. John's University, you must first pay your deposit. After that, you can register for the Orientation Connection Days. If you have any questions, you can contact them at [orientation@stjohns.edu](http://mailto:orientation@stjohns.edu/) or 718-990-5353. For more information, you can check the [New Student Guide Checklist](https://www.stjohns.edu/admission/undergraduate-admission/accepted-students/new-student-guide-checklist).",high
+107,what is the cost per credit at st johns university,"Point to: ""what is the tuition for a phd student at st. john's university?""",high
+108,help with stormcard,You may find the [StormCard](https://ithelp.stjohns.edu/support/solutions/folders/16000062625) solutions page helpful.,high
+109,representative,"Point to: ""solutions agent""",high
+110,course offerings,You can find the available courses on **[University Course Offerings](https://www.stjohns.edu/academics/university-course-offerings)**.,high
+111,tuition,"Point to: ""solutions tuition""",high
+112,st johnson university,,low
+113,orientation,"To reserve a spot for the orientation, you must have paid your deposit. After that, you can register for the Orientation Connection Days.
+
+<br/>If you have any questions, please contact at [orientation@stjohns.edu](http://mailto:orientation@stjohns.edu/) or 718-990-5353. For more information, you can check the [New Student Guide Checklist](https://www.stjohns.edu/admission/undergraduate-admission/accepted-students/new-student-guide-checklist).",high
+114,how to i register for classes,"You can find your Registration Time Ticket by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the Connect app on your smartphone. Choose the New UIS Experience widget, go to My Information – Academic Profile - click Registration Notices and you will see your Time Ticket. All students should bring a student advisement report to their advising appointments. Advisors will provide their advisees with a PIN, which is needed to register. 
+
+<br/>For more information, please refer to the [Registrar’s Office website on Registration](https://www.stjohns.edu/academics/office-registrar/registration) and [How do I register for classes using the ""New UIS Experience""?](https://ithelp.stjohns.edu/support/solutions/articles/16000080168).
+
+Are you a first time or first year student?
+
+First Time Student
+
+First Time First Year Student
+
+Point to: ""i am a new first time student, how do i register?""
+
+Point to: ""i am a first time first year student, how do i get registration information?""",high
+115,solutions housing portal,You can log into the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) using SignOn.,high
+116,pay tuition,"Point to: ""solutions payment""",high
+117,solutions graduation,You can find dates and locations for graduation ceremonies on the **[Commencement](https://www.stjohns.edu/academics/commencement)** page.,high
+118,movein calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+119,new uis experience,You can find the New UIS Experience by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the Connect app on your smartphone.,high
+120,how do i make an account,"For further assistance, please contact the Customer Service Center at [718-990-2000](tel:7189902000).
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+121,contact,You can contact the St. John's University Customer Service Center by calling [718-990-2000](tel:718-990-2000) or emailing [CSC@stjohns.edu](mailto:CSC@stjohns.edu). Their hours are Monday–Thursday from 8:30 a.m. to 4:30 p.m. and Friday from 8:30 a.m. to 3 p.m.,high
+122,what do i need to do to make a payment,"St. John's offers various payment options, and University payment plans each semester. Please review the options best for you [here](https://www.stjohns.edu/admission/tuition-and-financial-aid/payment-options).",high
+123,how do i know who my dean is,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. 
+
+<br/>If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). 
+<br/>If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). 
+
+<br/>For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+124,what is my username,,low
+125,schedule a tour,"You can schedule a campus tour for prospective undergraduate students [here](https://apply.stjohns.edu/portal/campus_visit_Queens) and for prospective graduate students [here](https://grad.stjohns.edu/portal/graduate_tours). For school group tours or to customize your on-campus experience during the summer, you can contact the team at [visit@stjohns.edu](mailto:visit@stjohns.edu). If you have any questions before your visit, you can also reach out at [718-990-3368](tel:7189903368) or [visit@stjohns.edu](mailto:visit@stjohns.edu).",high
+126,okta verify,"Point to: ""solutions reset mfa""",high
+127,application status portal,"Undergraduate students can access their student portal at https://apply.stjohns.edu/apply/
+
+Graduate students can access their student portal at https://grad.stjohns.edu/apply/",high
+128,meal plans,"Any student can add a meal membership, along with Flex and Dining Dollars, to their StormCard. Visit [here](https://www.stjohns.edu/queens-residential-campus/dining-services) for more information.
+<br/>
+Resident students can visit [Housing Selection](https://www.stjohns.edu/queens-residential-campus/residence-life/housing-selection) to learn more about the building and meal plan requirements. For resident meal plan rates, visit [here](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board).",high
+129,solutions dining dollars,You can check your dining dollars and manage your StormCard balance on **[Atrium](https://stjohnsstudentlink.atriumcampus.com/)**.,high
+130,change major,"If you want to change your major at St. John's University, you can email admhelp@stjohns.edu with your name, date of birth, and the major for which you would now like to apply. If you are a continuing student, you should complete the Internal Transfer Request Form on the [New UIS Experience](https://connect.stjohns.edu/) widget.",high
+131,parking pass,"To obtain a parking pass at St. John's University, follow these steps:
+
+1. Visit [Connect](https://connect.stjohns.edu/) or use the Connect app on your smartphone.
+2. Click on ""Log In"" and enter your credentials. Employees and faculty members use their full St. John’s University email address, while students use the format firstname.lastname##@my.stjohns.edu (##=two-digit year of entry). First-time users' passwords are ""S"" followed by ""j"" and the eight digits of their StormCard ID number.
+3. Choose the Parking Services widget.
+4. Open Parking Services and follow the on-screen instructions.
+
+Permits are mailed to your home address within five to seven business days. Ensure your current mailing address is registered. If you do not receive your permit within 30 days, file a report with the Department of Public Safety.
+
+For off-campus parking at Seton Complex, DePaul House, and Henley Road, permits are issued in person at the Public Safety office. Eligibility is determined by senior administrators, and a list of eligible members is forwarded to Public Safety.",high
+132,jobs,"[University Career Services](https://www.stjohns.edu/life-st-johns/career-services)  provides programs and services that create opportunities for students, alumni, faculty, and employers to engage in mutually beneficial partnerships that meet the needs of an evolving and global workforce. 
+
+<br/>
+Information about St. John's University job opportunities is listed [here.](https://www.stjohns.edu/about/leadership-and-administration/administrative-offices/human-resources/recruitment)
+
+<br/>
+Current students can visit [Student Employment](https://www.stjohns.edu/recruitment/student-employment) for on-campus job opportunities.",high
+133,i cant access my account,,none
+134,how do i transfer my credits to another school,"To transfer your credits to another school from St. John's University, you need to request your academic transcripts. Instructions for requesting a transcript can be found on the St. John's University website:
+
+- For Undergraduates, Graduates, and Alumni, visit [here](https://www.stjohns.edu/academics/office-registrar).
+- For Law School Students, visit [here](https://www.stjohns.edu/law/student-life/student-services/office-registrar#:~:text=Email%20or%20Mail%2DIn%20Requests&text=Law%20school%20alumni%20may%20order,the%20Transcript%20Request%20Form%20below.&text=Transcripts%20are%20processed%20within%203,the%20receipt%20of%20the%20request).
+- For College Advantage students, visit [here](https://www.stjohns.edu/admission/other-programs/college-advantage-program).",high
+135,what are the programs,"Point to: ""solutions degrees""",high
+136,i need help signing in,"Point to: ""solutions signon first time""",high
+137,link to livesafe,"The link to LiveSafe for St. John's University is not explicitly provided in the supporting context. However, you can find more information about LiveSafe on the [Public Safety page](https://www.stjohns.edu/my-st-johns/public-safety) of St. John's University.",high
+138,campus tour,"You can schedule a campus tour for prospective undergraduate students [here](https://apply.stjohns.edu/portal/campus_visit_Queens) and for prospective graduate students [here](https://grad.stjohns.edu/portal/graduate_tours). For school group tours or to customize your on-campus experience during the summer, visit [Explore St. John's Today!](https://www.stjohns.edu/admission/connect-us/explore-st-johns-today) or contact their team at [visit@stjohns.edu](mailto:visit@stjohns.edu). If you have any questions, you can also call [718-990-3368](tel:7189903368).",high
+139,how to pay for college advantage,"Point to: ""how to pay for dual enrollment classes""",high
+140,do you have nursing as a major,St. John's University offers a [B.S. in Nursing](https://www.stjohns.edu/academics/programs/nursing-bachelor-science).,high
+141,when does the spring semester start,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+142,i am from hicksville ny 11801 in long island,,none
+143,open house,"See for yourself what it means to be a Johnnie through our Open House. 
+<br/> 
+For first-year undergraduate and transfer students, visit [here](https://www.stjohns.edu/join-us-our-open-house). 
+<br/>
+For graduate students, visit [here](https://grad.stjohns.edu/portal/grad-events).",high
+144,gpa requirements,"The GPA requirements for admission to St. John's University vary by program. For the Master of Arts in English, an undergraduate GPA of at least 3.0 is required, with a 3.5 GPA in English courses. For the Bachelor of Arts / Master of Arts in Psychology, a cumulative and major GPA of 3.25 is required.",high
+145,how do i make an appointment with my dean,"Point to: ""advisement""",high
+146,where should i send my transcripts,"For electronic transcripts, you can send them to the following email addresses based on your application type:
+
+- Undergraduate Admission: admission@stjohns.edu, transfers@stjohns.edu, or intladm@stjohns.edu
+- Graduate Admission: gradhelp@stjohns.edu
+
+For mailing physical transcripts, send them to:
+
+**Office of International Admission**  
+St. John's University  
+Rm. 106 Newman Hall  
+8000 Utopia Parkway  
+Queens, NY 11439  
+Tel: (718) 990-1601  
+intlhelp@stjohns.edu",high
+147,how many students are there,,low
+148,when is move in day,You can find the Move-in schedule on the **[Move-in Survival Guide](https://www.stjohns.edu/queens-residential-campus/residence-life/move-survival-guide)** page.,high
+149,how do i register an overnight guest,"To register an overnight guest at St. John's, follow these steps:
+
+1. Use the Online Guest Registration Form on [UIS](https://signon.stjohns.edu/) to request an overnight guest.
+<br/>Head to **Student > Student Life > Resident Students > Overnight Guest Registration** on UIS to find the form.
+2. Register the guest through the online system/housing portal before 11 p.m. on the night the guest wishes to stay.
+3. If the guest is a non-St. John’s guest, they will receive an overnight guest pass, which must be retrieved from Public Safety no later than 11 p.m. by the host and guest, together. The guest pass must be carried at all times and the guest must be escorted by the host.
+
+If a host discovers that their guest has had a change of plans, they may cancel that overnight guest pass via their student account online on the Queens campus. The host will be charged $20 for any lost overnight guest pass. 
+
+For more information, visit [register overnight guests](http://www.stjohns.edu/node/78386#overnightguest).",high
+150,transfer student,"At every point in your transfer journey, you'll experience personalized attention from a team of admissions, financial aid, and academic advisers. Visit [Transfer Admission](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students) to learn more and apply!",high
+151,can you give me a list of all the clubs on campus,"St. John’s offers more than 180 student organizations on campus, including academic, athletic, social, and Greek life.
+
+<br/>[Learn more about student organizations](https://www.stjohns.edu/queens-residential-campus/queens-campus-life/student-organizations)!",high
+152,solutions forgot x number,"If you do not remember your X number, it can be found on a tuition statement or transcript. You can also find it on [UIS](https://ithelp.stjohns.edu/support/solutions/articles/16000015364).
+
+<br/>If not found, you may also contact the Registrar's office: (718) 990-1339.",high
+153,i cant unlock my account,"Point to: ""solutions unlock account""",high
+154,it number,The IT Service Desk at St. John's University can be contacted at (718) 990-5000.,high
+155,how do i login as an authorized user,"To log in as an authorized user at St. John's University, follow these steps:
+
+1. You will receive an email with a link and separate login details for the Account Suite after being added as an authorized user.
+2. Use the provided login details to access the Account Suite.
+3. If you do not remember the password, click on the “Forgot Password” link under the login screen to reset it.
+
+If you encounter any issues, you can contact the Service Center at (718) 990-2000, Monday to Thursday, 8:30 a.m. to 4:30 p.m., and Fridays, 8:30 a.m. to 3 p.m. EST.",high
+156,employee directory,,low
+157,i need an unofficial transcript,"Point to: ""solutions unofficial transcript""",high
+158,when is open house,"See for yourself what it means to be a Johnnie through our Open House. 
+<br/> 
+For first-year undergraduate and transfer students, visit [here](https://www.stjohns.edu/join-us-our-open-house). 
+<br/>
+For graduate students, visit [here](https://grad.stjohns.edu/portal/grad-events).",high
+159,admission requirements,"Undergraduate Application
+
+Graduate Application",high
+160,acceptance rate,,low
+161,how do i connect to the wifi,"To connect to the Wi-Fi at St. John's University, follow these steps based on your device:
+
+**For Windows:**
+1. Click the Wi-Fi signal icon on the bottom right corner of the screen.
+2. Select SJUMobile and click Connect.
+3. Enter your SJU Username and Password, then click Connect.
+
+**For iOS (iPad, iPhone, & iPod):**
+1. Go to Settings and select Wi-Fi.
+2. Ensure Wi-Fi is turned on.
+3. Select SJUMobile.
+4. Enter your SJU Username and Password, then click Connect.
+
+For specific instructions on other devices like Android, Mac OSX, Google Pixel, or if you need to connect a ChromeBook, please refer to the appropriate guides provided by St. John's University Service Desk. If you encounter issues, try removing/forgetting the saved network and reconnecting. For further assistance, contact the Service Desk at 718-990-5000, available Monday to Friday, 7:30 am to 7:30 pm EST.",high
+162,cost,"The cost of attending St. John's University varies depending on the program. For the College Advantage Program, the cost per course is $325. For the High School Scholars Program, the cost per course is $1,000. Graduate tuition costs per credit are as follows:
+
+- College of Professional Studies: $950
+- The School of Education: $950
+- The Peter J. Tobin College of Business: $965
+- St. John’s College Grad Arts & Sciences: $950
+- School Psychology: $1,020
+- Library Science: $1,015
+- Speech–Language Pathology and Audiology: $1,020
+- Ph.D. Clinical Psychology: $1,145
+- College of Pharmacy and Allied Health Professions: $1,095
+- Pharm.D. (Practitioner’s Option): $1,145
+
+Additional fees include a general fee of $170 per semester, an application fee of $70, and other specific fees for examinations and services. For the most up-to-date information, it is recommended to check the online version of the bulletin at [St. John's University Bulletins](https://www.stjohns.edu/bulletins).",high
+163,pay deposit,"Point to: ""solutions deposit""",high
+164,how to find my advisor,"First-year students at St. John's University are advised by the Center for Student Success. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, you can contact them at [718-990-2000](tel:7189902000) during regular office hours.",high
+165,do you have a nursing program,"Point to: ""do you have nursing as a major""",high
+166,the cost of attendance and financial information,Visit [Tuition](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition) to learn more about tuition rates and fees.,high
+167,when does the winter classes start,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+168,other,"Could you please provide more details or specify what information you are looking for regarding ""other""? I'll be happy to assist you further!",high
+169,financial aid office number,The contact number for the Office of Student Financial Services at St. John's University is 718-990-2000.,high
+170,mailroom hours,,low
+171,i locked myself out and do not remember the answer to my recovery question,"Point to: ""solutions reset mfa""",high
+172,class schedule,Your class schedule is available on [**Connect**](https://connect.stjohns.edu).,high
+173,i have a question about scholarship,"Point to: ""solutions scholarships""",high
+174,where do i get my storm card id,"To find your ID number, follow the instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000015364).",high
+175,password not working,"If your password is not working, you can follow the helpful steps provided by St. John's University Service Desk to reset your password yourself. You can find these steps by visiting [this link](https://ithelp.stjohns.edu/support/solutions/articles/16000016145).",high
+176,library,"For St. John's University library locations and hours, visit [here](https://www.stjohns.edu/libraries/contact-us).
+
+<br/>You can search the **St. John's University Libraries** online resources [here](https://stjlib.on.worldcat.org/).",high
+177,how do i withdraw from school,"If you want to drop all your classes, you must complete a Change of Program and inform your dean of this in writing. Read more on [Withdrawals and Credits](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/withdrawals-and-credits).",high
+178,knock knock,,none
+179,how to pay for dual enrollment classes,"To finalize your enrollment in the College Advantage Program, you must submit payment in full by the [deadline](https://www.stjohns.edu/admission/other-programs/college-advantage-program). To learn how to make a payment, visit [College Advantage Program](https://www.stjohns.edu/admission/other-programs/college-advantage-program).",high
+180,application status,"Point to: ""application status portal""",high
+181,schedule,,low
+182,student portal,"Undergraduate students can access their student portal at [apply.stjohns.edu/apply](https://apply.stjohns.edu/apply). Graduate students can access their student portal at [https://grad.stjohns.edu/apply/](https://grad.stjohns.edu/apply/). Additionally, the University's internal information portal, Connect, can be accessed at [connect.stjohns.edu](https://connect.stjohns.edu) and is also available on [Apple](https://apps.apple.com/us/app/sju-connect/id1623710314) and [Android](https://play.google.com/store/apps/details?id=com.ucroo.stjohns).",high
+183,i cant access my email,"If you can't access your email because you don't remember your password, you can reset it by following this [video](https://youtu.be/bPZI6iF6aVo) or [this article](https://ithelp.stjohns.edu/support/solutions/articles/16000016145). Once your password is reset, you can log in to Sign-On and access your email via the Office 365 Mail icon.",high
+184,wifi,"Students, Faculty, Administrators, and Staff should use
+[SJUMobile](https://ithelp.stjohns.edu/support/solutions/articles/16000015825).
+
+<br/>
+Guests should use 
+[SJUGuest.](https://ithelp.stjohns.edu/support/solutions/articles/16000032592)
+
+If you are interested in connecting your **Console** or **Smart Speakers**, visit the [Gaming Connect page.](https://ithelp.stjohns.edu/support/solutions/articles/16000016013)",high
+185,where can i see my classes,"You can view your class schedule on [**Connect**](https://connect.stjohns.edu) by logging in and clicking on “New UIS Experience.” You can also use the mobile Connect App by installing it on your phone or tablet and locating the tile labeled “Student Schedule.” Additionally, you can log in to the Sign-On portal and click “Connect” to see your schedule on the right side of the page.",high
+186,dorms,"St. John's University offers a variety of housing options for undergraduate, graduate, and law students on its Queens and Staten Island campuses. On the Queens campus, housing includes single, double, triple, and quad-style rooms in suites, rooms sharing a connecting bathroom, and apartment configurations both on- and off-campus. The Residence Village on the Queens campus features suite-style housing with kitchenettes and traditional corridor-style housing. Founder’s Village Townhouses and the Henley Road Apartment Complex provide apartment-style living with full kitchens and common areas. The Staten Island campus offers garden-style apartment housing at the edge of the campus property. All residential facilities are air-conditioned and provide 24/7 desk security.",high
+187,solutions course offerings,You can find the available courses on **[University Course Offerings](https://www.stjohns.edu/academics/university-course-offerings)**.,high
+188,solutions red storm,Here you can find out more about [**Red Storm Sports**](https://redstormsports.com/).,high
+189,solutions campus map,You can find the campus map [here](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).,high
+190,tuition for international students,,low
+191,deadline,"Point to: ""solutions deadlines""",high
+192,what is my student number,,low
+193,when is the next open house,,low
+194,how to get a new storm card,"Point to: ""solutions stormcard""",high
+195,how do i get email for the first time,You can access your e-mail by logging into [Sign-On](https://signon.stjohns.edu) and clicking the Office 365 Mail icon.<br>,high
+196,is this school worth it,I see that you are getting frustrated. Please rephrase as a single concise question.,high
+197,solutions tours,"Campus tours are available for prospective undergraduate and graduate students. You can schedule a [undergraduate tour](https://apply.stjohns.edu/portal/campus_visit_Queens) or a [graduate tour](https://grad.stjohns.edu/portal/graduate_tours). 
+
+<br/>Find out more about campus tours [here](https://www.stjohns.edu/admission/connect-us/explore-st-johns-today).",high
+198,solutions scholarships,"St. John's University offers a range of scholarships: 
+<br/>
+For **undergraduate student scholarships**, visit [here](https://www.stjohns.edu/admission/scholarships).
+<br/> 
+For **transfer student scholarships**, visit [here](https://www.stjohns.edu/admission/scholarships/transfer-student-scholarships).
+<br/> 
+For **international student scholarships**, visit the FAQ section [here](https://www.stjohns.edu/admission/international-admission/faqs).
+<br/> 
+For **graduate student scholarships**, visit [here](https://www.stjohns.edu/admission/graduate-admission/graduate-scholarships).",high
+199,do you have christian club,"Point to: ""student organizations""",high
+200,holiday schedule,"The holiday schedule for 2025 includes the following days when the university is closed:
+
+- New Year's Day: Wednesday, January 1
+- Martin Luther King, Jr. Day: Monday, January 20
+- Presidents' Day: Monday, February 17
+- Special Holiday (Holy Thursday): Thursday, April 17
+- Good Friday: Friday, April 18
+- Special Holiday (Easter Monday): Monday, April 21
+- Memorial Day: Monday, May 26
+- Juneteenth: Thursday, June 19
+- Special Holiday: Thursday, July 3
+- Independence Day: Friday, July 4
+- Labor Day: Monday, September 1
+- Fall Break: Monday, October 13
+- Veterans Day: Tuesday, November 11
+- Day before Thanksgiving (Early Dismissal at Noon): Wednesday, November 26
+- Thanksgiving Day: Thursday, November 27
+- Day after Thanksgiving: Friday, November 28
+- Christmas Eve: Wednesday, December 24
+- Christmas: Thursday, December 25
+- Special Holiday: Friday, December 26
+- Special Holiday: Monday, December 29
+- Special Holiday: Tuesday, December 30
+- Special Holiday: Wednesday,",high
+201,im from hicksville ny 11801 in long island,,none
+202,what is the phone number for the registrars office,You can find the contact information for the registrar on the **[Office of the Registrar](https://www.stjohns.edu/academics/office-registrar)** page.,high
+203,do you have online classes,"Yes, St. John's University offers online classes. The graduate program at The School of Education provides graduate online degree programs and individual online courses. These courses offer flexibility and an interactive educational experience, allowing students to study texts, complete assignments and exams, and engage with instructors and fellow students online. The online programs are accredited by the Middle States Commission on Higher Education and registered with the New York State Education Department.",high
+204,is there afterschool activity,"Yes, St. John’s University offers a variety of after-school activities, including sports programs such as intramural sports, club sports, and intercollegiate offerings. The university also provides a Personal Training program and has a Fitness Center with cardio and strength training equipment. For more information, you can visit [St. John's University Campus Recreation](www.stjohns.edu/crec).",high
+205,tour,"Point to: ""solutions tours""",high
+206,okta qr code,"You can find the QR code for Okta by following the instructions provided [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016496) on how to update your MFA. The setup must be initiated through a web browser on a separate device from the one you are installing the app on. After choosing your device type (iPhone or Android) and clicking NEXT, a QR code will appear.",high
+207,drop a class,"If you want to drop a course, you must complete a Change of Program and inform your dean of this in writing. Read more on [Withdrawals and Credits](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/withdrawals-and-credits).",high
+208,how do i log in to my account,"Point to: ""solutions signon first time""",high
+209,unofficial transcript,"You can access your unofficial transcript on [UIS](https://signon.stjohns.edu/home/bookmark/0oaxi2qplvSlNbWjR357/2557).
+
+<br/> Once logged in, go to **Student Records** > **Academic Transcript (Unofficial)** and select your Transcript Level and Transcript Type.",high
+210,when is commencement,You can find dates and locations for graduation ceremonies on the **[Commencement](https://www.stjohns.edu/academics/commencement)** page.,high
+211,sunday may 19 2024 at 1000 am,"Yes, the Undergraduate Commencement Day at St. John’s University is on Sunday, May 19, 2024, on the Great Lawn. However, the specific time of 10:00 am is not mentioned in the provided context.",high
+212,what is xid,"If you do not remember your X number, it can be found on a tuition statement or transcript. If you don't know your X number, contact us at [718-990-2000](tel:718-990-2000).
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+213,solutions authorized user,"Fire User Message: ""how do i login as an authorized user""",high
+214,solutions housing cost,You can find the housing cost on the [**Room and Board**](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board) site.,high
+215,alumni,"**Welcome to St. John's University**
+
+What do you need help with?
+
+Access Email
+
+Request Transcript
+
+Point to: ""solutions alumni email""
+
+Point to: ""solutions transcript""",high
+216,i need to access my old st johns email,"Point to: ""how do i get email for the first time""",high
+217,meal plan,"Any student can add a meal membership, along with Flex and Dining Dollars, to their StormCard. Visit [here](https://www.stjohns.edu/queens-residential-campus/dining-services) for more information.
+<br/>
+Resident students can visit [Housing Selection](https://www.stjohns.edu/queens-residential-campus/residence-life/housing-selection) to learn more about the building and meal plan requirements. For resident meal plan rates, visit [here](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board).",high
+218,class of 2024,"The Class of 2024 at St. John's University is supported by Career Services, which offers various resources to help students plan their next steps. Students are encouraged to connect with alumni and employers on LinkedIn by following St. John's University Career Services and participating in the 'Meet the Class of 2024' post. Those who have secured a position or been accepted into graduate school can share their next steps by emailing [careers@stjohns.edu](mailto:careers@stjohns.edu). For those still planning, resources are available through [SignOn.Stjohns.edu](https://signon.stjohns.edu/), including [Handshake](https://stjohns.joinhandshake.com/edu) for job and internship opportunities, career events, and more. Students can also make appointments with their Career Advisor and access resources on Canvas. More information can be found by connecting with a Career Advisor via Handshake or visiting the University Career Services [here](https://www.stjohns.edu/life-st-johns/career-services).",high
+219,application fee waiver for international applicants,"Point to: ""can international applicants receive an application fee waiver for graduate programs?""",high
+220,mailroom phone number,Residents can contact the University Mailroom at [718-990-6692](tel:7189906692). Visit [University Mailroom](https://www.stjohns.edu/queens-residential-campus/residence-life/university-mailroom) for the hours of operation.,high
+221,campus map,,low
+222,did i get in,,none
+223,can i talk to someone in the financial aid department,You can contact the Department of Financial Aid at St. John's University by calling 718-990-2000 or emailing [studentfinancialserv@stjohns.edu](mailto:studentfinancialserv@stjohns.edu).,high
+224,it is going to be on zoom,,none
+225,css code,"Point to: ""where can i find the css profile""",high
+226,i am not a student,,none
+227,international student,"The information available for international students includes:
+
+- Opportunities to work while studying through for-credit internships in accounting/finance or marketing, available via Curriculum Practical Training (CPT) for F-1 International Students.
+- The ability to apply for Optional Practical Training (OPT) after completing degree requirements, allowing students to work in the U.S. for one year.
+- Contact details for the Graduate Admission Office at The Peter J. Tobin College of Business: 718-990-1345, [TobinGradNYC@stjohns.edu](mailto:TobinGradNYC@stjohns.edu).
+- Information on scholarships for international students, including merit-based scholarships for first-year undergraduates and various other scholarships like the Ozanam Scholars Program, Catholic Scholars Program, Fine Arts Scholarships, and Athletic Scholarships.
+- Details on scholarships for transfer international students, such as the Transfer Distinction Award and University Transfer Merit Scholarships.
+
+For more information, international students can contact the [International Student Services Office](http://www.stjohns.edu/admission-aid/international-admission/international-student-and-scholar-services) and visit the [Scholarships page](https://www.stjohns.edu/admission/scholarships/transfer-scholarships).",high
+228,how do i know who my advisor is,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. 
+
+<br/>If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). 
+<br/>If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). 
+
+<br/>For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+229,where is the library,"For St. John's University library locations and hours, visit [here](https://www.stjohns.edu/libraries/contact-us).",high
+230,finals schedule,Here is the schedule for [final exams](https://www.stjohns.edu/academics/office-registrar/academic-calendar/final-exam-schedule).,high
+231,unlock my account,"To unlock your account, follow the instructions provided [here](https://ithelp.stjohns.edu/support/solutions/articles/16000043317-how-do-i-unlock-my-account-for-signon-stjohns-edu-). You can also click on the **Unlock** link at the bottom of the [SignOn](https://signon.stjohns.edu/) portal and follow the provided instructions. If you need further assistance, contact the Service Desk at 718-990-5000 during business hours, Monday to Friday, from 7:30 AM to 7:30 PM.",high
+232,are you real,"I am a virtual assistant created to help you with your questions and provide information. If there's anything you need, feel free to ask!",high
+233,overnight guest form,"You can find the overnight guest registration form for St. John's University by using the Online Guest Registration Form on [UIS](https://signon.stjohns.edu/). Navigate to **Student > Student Life > Resident Students > Overnight Guest Registration** on UIS to access the form. Alternatively, you can download and log in to the [St. John's Connect](https://www.stjohns.edu/news-media/social-st-johns-university/st-johns-mobile-apps) app using your St. John's username and password, then select Resources > Residence Life > Overnight Guest Registration to register an overnight guest.",high
+234,admissions contact,"The contact number for admissions at St. John's University is 718-990-1802. For questions concerning admission procedures or graduate programs, you can contact the Office of Graduate Admission at (718) 990-1601, fax (718) 990-2346, or email gradadm@stjohns.edu.",high
+235,access uis,"Point to: ""new uis experience""",high
+236,need help with okta verify,"To update your phone for Okta Verify, you can watch a brief video on updating your multi-factor authentication [here](https://youtu.be/hh1sR9ng_h4) or read an article [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016496). To install Okta Verify on a new device, remove the existing setting and set up the new device. You can change your SignOn verification phone number via the SignOn settings option on the SignOn page near your name, but you will need to reconfirm your identity before making any changes.",high
+237,i need a copy of my diploma,"If your original diploma from St. John's University is lost, stolen, or destroyed, you can order a replacement diploma. To do so, you need to file a standard application for a diploma and a notarized affidavit. Additionally, you must provide copies of two forms of identification, one of which must contain a photo, such as a passport, driver's license, social security card, or work ID. There is a $50 fee for a replacement diploma. For applications and affidavits, you can call [(718) 990-2000](tel:7189902000). Note that diplomas are only replaced for reasons of loss, destruction, change of name, or theft, and duplicate diplomas are not issued.",high
+238,transcript request,"You can request a transcript from St. John's University in the following ways:
+
+1. **Via the Web in UIS**: Current students and recent alumni with access to UIS can order transcripts online by logging into UIS, clicking on the ""Student"" tab, then ""Student Records,"" and selecting ""Request Printed/Official Transcript."" Ensure the recipient's name and address are entered correctly as they will print exactly as entered. These transcripts will be mailed via US mail.
+
+2. **Electronic Transcripts (PDF)**: You can request electronic transcripts, which are delivered within hours of processing. This method allows you to upload any necessary forms or documents to be sent with your transcript. Ensure the recipient accepts electronic transcripts and verify the correct email address for transmission. You will receive email confirmations when the transcript is available and when it has been downloaded by the recipient.
+
+For more information, visit the [Request a Transcript](https://www.stjohns.edu/about/leadership-and-administration/administrative-offices/office-provost/enrollment-management/office-registrar#transcript) page.",high
+239,how do i look up my transcript,"Point to: ""request a transcript""",high
+240,okta verification,"Point to: ""solutions reset mfa""",high
+241,bye,"Goodbye! If you have more questions in the future, feel free to reach out. Have a great day!",high
+242,i am a senior in college,"The [Center for Student Success](https://www.stjohns.edu/academics/centers-institutes/center-student-success) advises first-year students. The [Office of Transfer Student Services](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students/transfer-student-services#:~:text=For%20more%20information%20contact%20our,at%20Tsshelp%40stjohns.edu) advises entering transfer students. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+243,it says page not found,,none
+244,i have a new phone or a new phone number to use for my security information for multifactor authentication how do i change it,"It is recommended that you enable multiple versions of Multifactor Authentication or MFA. There is the ability to use Texting (or SMS), Voice Call, or an authentication app called Okta Verify. <br/>
+<br/>
+The SMS MFA will continue to work even if you change your phone, as long as you have the same phone number. 
+
+If you are in an area without good cell service to receive SMS, but you have internet access via Wi-Fi, it is recommended that you then use the Okta Verify app. <br/>
+<br/>
+If you only have access to a phone device that simply allows Voice Calls, such as a landline phone in your home or office, or have a cell phone that does not have SMS or Internet capabilities, you can set up the MFA for a Voice call.",high
+245,solutions signon,"Here are some quick choices:
+- [General SignOn Information](https://ithelp.stjohns.edu/support/solutions/articles/16000010232)  or [Video] (https://www.youtube.com/watch?v=Dl4OnF7nlrE)<br/>
+- [Changing your password information](https://ithelp.stjohns.edu/support/solutions/articles/16000016496-how-do-i-change-my-email-password-or-security-information-mfa-for-signon-stjohns-edu-) or [Video](https://www.youtube.com/watch?v=npapsg6TTm0)
+- [Resetting your password information](https://ithelp.stjohns.edu/support/solutions/articles/16000016145) or [Video](https://www.youtube.com/watch?v=bPZI6iF6aVo)
+- [Setting up Multi-factor Authentication information](https://ithelp.stjohns.edu/a/solutions/articles/16000016496) or [video](https://www.youtube.com/watch?v=uTqNhA7ss9k)
+
+<br/>Technical support is available weekdays 7:30am - 7:30pm at [718-990-5000](tel:7189905000)
+
+<br/>Or just ask me a question",high
+246,how do i make a housing deposit,You can find details on how to pay your deposit on the [**Enrollment and Housing Deposit**](https://www.stjohns.edu/admission/tuition-and-financial-aid/payment-options/enrollment-and-housing-deposit) site.,high
+247,undergraduate tuition,,low
+248,find job,"Point to: ""solutions jobs""",high
+249,solutions connect,"The St. John’s U Connect Mobile App is your one-stop shop for all the systems, information, communities, and updates you'll need to succeed at St. John's University.
+
+Find out more about the [mobile version](https://ithelp.stjohns.edu/support/solutions/articles/16000057912-st-john-s-u-connect-mobile-app) and the [web version](https://ithelp.stjohns.edu/support/solutions/articles/16000057922).",high
+250,i am in my senior year in college,"The [Center for Student Success](https://www.stjohns.edu/academics/centers-institutes/center-student-success) advises first-year students. The [Office of Transfer Student Services](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students/transfer-student-services#:~:text=For%20more%20information%20contact%20our,at%20Tsshelp%40stjohns.edu) advises entering transfer students. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+251,solutions dining hall hours,You can find the hours of operation for the dining locations [here](https://dineoncampus.com/stjohns/hours-of-operation).,high
+252,diploma,"To learn information about diplomas, visit [here](https://www.stjohns.edu/academics/office-registrar).
+<br/>
+Students should consult with their dean's office for dates when diplomas will be available for pick-up.",high
+253,how do i transfer out of st johns university,"Students looking to transfer out of St. John's University should contact their advisor or dean. Students should also contact the Office of Student Financial Services. 
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+254,how can i get my transcript sent to another school,"Point to: ""request a transcript""",high
+255,how,Could you please provide more details or clarify your question so I can assist you better?,high
+256,when is the fafsa form due,,low
+257,bookstore,The Queens Campus bookstore is located in Marillac Hall next to the Auditorium.  This is a link to the [bookstore hours](https://www.bkstr.com/stjohnsmarillacstore/store-hours).,high
+258,how much is to dorm,"Point to: ""solutions housing cost""",high
+259,it email,"The email address for IT support at St. John's University is not provided in the supporting context. However, you can submit a support request at [ithelp.stjohns.edu](https://ithelp.stjohns.edu) or call them at (718) 990-5000 for assistance.",high
+260,how do i locate my stormcard id number,[Here](https://ithelp.stjohns.edu/support/solutions/articles/16000015364) are instructions on where **students** can find their Storm Card ID number or X number.,high
+261,housing portal,You can log into the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) using SignOn.,high
+262,unable to reset password,"If you are unable to reset your password, please call the St. John's University Service Desk at (718) 990-5000 and press option 2. They can assist you in resetting your password after verifying your identity. The Service Desk is available Monday to Friday, from 7:30am to 7:30pm EST.",high
+263,how do i pay my daughter remaining tution fee my daughter name is anika wahid,,none
+264,my sign on isnt working,"If you are having problems connecting to SignOn, please view this [page](https://ithelp.stjohns.edu/support/solutions/articles/16000010232-how-do-i-log-in-to-the-sign-on-okta-portal-at-signon-stjohns-edu-). If you continue to encounter problems, please contact [(718) 990-5000](tel:7189905000) for assistance Monday through Friday from 7:30 AM to 7:30 PM.",high
+265,why cant i log into mysju account,Current students and employees of the University can access their applications through [Sign-On](https://signon.stjohns.edu) and Information through [Connect](https://connect.stjohns.edu). <br>,high
+266,admissions email,"Who do you want to speak to?
+
+You can contact the Office of Undergraduate Admission at:
+
+<br/>Phone: [718-990-2000](tel:7189902000)
+<br/>Email: [admhelp@stjohns.edu](mailto:admhelp@stjohns.edu)
+
+You can contact the Office of Graduate Admissions at:
+
+<br/>Phone: [718-990-1601](tel:7189901601)
+<br/>Email: [gradhelp@stjohns.edu](mailto:gradhelp@stjohns.edu)
+
+You can contact Transfer Admissions at:
+
+<br/>Phone: [718-990-2051](tel:7189902051)
+<br/>Email: [transfers@stjohns.edu](mailto:transfers@stjohns.edu)
+
+Undergraduate Admissions
+
+Graduate Admissions
+
+Transfer Admissions",high
+267,how can i contact my advisor,"Point to: ""advisement""",high
+268,solutions teams,,high
+269,are there dorms,"Yes, St. John's University provides housing in residence halls and apartments for undergraduate, graduate, and law students on the Queens and Staten Island campuses. However, there are no dorms available on the Manhattan campus.",high
+270,how can i contect to the school,You can get in touch with St. John's University through the following link: [Contact Us](https://www.stjohns.edu/admission/connect-us).,high
+271,live chat financial aid,"Point to: ""solutions speak to financial aid""",high
+272,who is my advisor,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. 
+
+<br/>If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). 
+<br/>If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). 
+
+<br/>For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+273,where do you add money to your storm card,"You can add money to your Storm Card at St. John's University in several ways: at the Storm Card Office, the Bursar's Office, or via the UIS on the web. Additionally, you can add funds via the Atrium app by signing into [https://signon.stjohns.edu](https://signon.stjohns.edu/), clicking on ""DEPOSIT FLEX VIA CREDIT CARD,"" and completing the order form.",high
+274,no one answers the phone when i call,,none
+275,requirements,"Undergraduate Application
+
+Graduate Application",high
+276,housing costs,You can find the housing cost on the [**Room and Board**](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board) site.,high
+277,when is graduation,You can find dates and locations for graduation ceremonies on the **[Commencement](https://www.stjohns.edu/academics/commencement)** page.,high
+278,college extension,,none
+279,what are the yearly costs,,low
+280,who is my academic advisor,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. 
+
+<br/>If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). 
+<br/>If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). 
+
+<br/>For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+281,how to change classes,"To change your classes at St. John's University, you can drop or add a class via UIS through the first week of the semester. After the first week, you will need your Dean’s permission to change your registration. During the second and third weeks of the semester, you may still drop a class with permission from your Dean’s Office, and these classes will not appear on your transcript. After the third week, dropping a class will be noted as a withdrawal (WD) on your transcript, which does not affect your GPA. To withdraw from one or more classes, you must contact your Dean’s Office, either in person or in writing.",high
+282,i cant log into signon,"Point to: ""solutions signon first time""",high
+283,queens campus map,"Point to: ""address""",high
+284,i dont have a time ticket,"If you don't have a Time Ticket for class registration, you should follow up with your academic advisor. They can assist you with any issues in the registration process and provide you with the necessary information, such as your PIN number, which is needed to proceed with registration once your Time Ticket starts. For more information, you can also refer to the [Registrar’s Office Web-site on Registration](https://www.stjohns.edu/academics/office-registrar/registration).",high
+285,autism workshop,"The autism workshop is integrated into courses EDU 9711 or EDU 9737, fulfilling the 3-hour mandate required by the NYS Department of Education. Students who do not take these courses must complete a 3-hour autism workshop separately. If the workshop is completed outside the School of Education, students must print the certificate, provide a copy to their advisor, and mail it to the Office of Teaching Initiative at 89 Washington Avenue, Albany, NY 12234. Students should also save a copy for their own records.",high
+286,i dont have a storm card,,low
+287,bookstore hours,The Queens Campus bookstore is located in Marillac Hall next to the Auditorium.  This is a link to the [bookstore hours](https://www.bkstr.com/stjohnsmarillacstore/store-hours).,high
+288,do you offer evening classes,"Yes, St. John's University offers a wide selection of degree programs during evening and weekend hours, as well as online, to accommodate the needs of working adults. Classes are arranged for the convenience of students who have limited hours available each week to pursue their education.",high
+289,how much is one credit,"Point to: ""solutions tuition""",high
+290,fee waiver,"St. John’s offers a free online application for all 100+ undergraduate programs, and graduate applications carry a low cost for most programs. To apply or learn more about the application process visit [Apply](https://www.stjohns.edu/admission/apply).",high
+291,i am an alumni,"**Welcome to St. John's University**
+
+What do you need help with?
+
+Access Email
+
+Request Transcript
+
+Point to: ""solutions alumni email""
+
+Point to: ""solutions transcript""",high
+292,parent,"St. John's University believes that college can be such a transformative experience, and selecting the right school is key to your child's successful transition into adulthood.
+
+Your child will graduate as a well-rounded global citizen with an understanding of service, diversity, leadership, and excellence, thanks to a world-class educational system that is built on the charitable teachings of St. Vincent de Paul.
+
+Here's how to support your child during each year of high school.
+
+Url: https://www.stjohns.edu/admission/undergraduate-admission/information-parents",high
+293,where can i find my financial aid package,"You can find your Financial Aid Package by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or use the connect app on your smart phone. Choose the New UIS Experience widget, go to Financial Aid Awards and click on Financial Aid Award Letter and choose your aid year to view your Financial Aid Package.
+
+<br/>For more information, refer to [How do I view my Financial Aid Award Package in New UIS Experience?](https://ithelp.stjohns.edu/support/solutions/articles/16000082757).",high
+294,on campus jobs for f1 business master student,,none
+295,careers,"St. John's University offers alumni a range of career services, including access to Handshake for event notifications and special opportunities, career support and resources, and the Alumni Professional Development Series. This series provides online learning from top alumni and industry experts, focusing on professional growth and industry trends. Alumni can also connect with employers through these services. More information can be found on their [Career Support](https://www.stjohns.edu/alumni-and-friends/alumni-benefits-and-resources/career-support) and [Alumni Professional Development Series](https://www.stjohns.edu/alumni-and-friends/get-involved/events-and-programs/alumni-professional-development-series) pages.",high
+296,when is admission deadline,"Point to: ""solutions deadlines""",high
+297,i forgot my username,"Point to: ""solutions signon first time""",high
+298,where is st johns university located,"St. John's University is located at 8000 Utopia Parkway, Queens, NY 11439. The university also has a campus in Rome and locations in Paris and Limerick. For directions and more information, visit [Find Us](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).",high
+299,what days,"Events or programs for St. John's University alumni are available from November 13, 2024, to May 13, 2025.",high
+300,does st johns university have a list of winter session courses that will be offered,"Point to: ""how can i find course descriptions at st. john's university?""",high
+301,solutions fitness center,You can find out more about **Recreation Opportunities** [here](https://www.stjohns.edu/queens-residential-campus/campus-recreation/recreation-opportunities).,high
+302,if i dont like the person i am sharing a room with can i switch,"The Room Change Process allows students to sign up to participate in one of the following two options: room swap or room change waitlist. To learn more about these options, visit [Housing Selection](https://www.stjohns.edu/queens-residential-campus/residence-life/housing-selection).",high
+303,dorm information,"St. John's University offers a variety of housing options for undergraduate, graduate, and law students on its Queens and Staten Island campuses. On the Queens campus, housing includes single, double, triple, and quad-style rooms in suites, rooms sharing a connecting bathroom, and apartment configurations both on- and off-campus. The Residence Village on the Queens campus features suite-style housing with kitchenettes and traditional corridor-style housing. The Founder’s Village Townhouses and Henley Road Apartment Complex provide apartment-style living with full kitchens and common areas. The Staten Island campus offers garden-style apartment housing at the edge of the campus property. All residential facilities are air-conditioned and provide 24/7 desk security.",high
+304,where is the campus located,"St. John's University is located at 8000 Utopia Parkway, Queens, NY 11439. The university also has a campus in Rome and locations in Paris and Limerick. For directions and more information, visit [Find Us](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).",high
+305,what is the fafsa code,St. John's University Title IV federal school code is **002823.**,high
+306,i am a student,"Point to: ""solutions common technology""",high
+307,payment,"St. John's University offers several payment options for students and their families to finance educational expenses. These include:
+
+1. **University Payment Plans**: Students and authorized users can log into the payment portal to review and enroll in available payment plans.
+
+2. **529 Payments**: State 529 payments can be used to reduce the overall balance, and students can then set up an online payment plan for the remaining balance using a bank account number or credit card.
+
+3. **Pay by Check**: Checks should be made payable to St. John's University, with the student ID number clearly written on the check. Checks and payment invoices should be sent to the Student Financial Services at the university's address.
+
+Please note that there is a $50 penalty fee for returned checks and chargeback credit card payments, and certain restrictions apply to accounts with returned payments.",high
+308,need my 1098t,"Point to: ""view and print 1098-t forms""",high
+309,what is the application fee,"Point to: ""fee waiver""",high
+310,housing number,The contact number for the Queens campus Residence Life office at St. John's University is 718-990-2417. The contact number for the Staten Island Residence Life office is 718-390-4167.,high
+311,i cant log in to uis,,low
+312,law school academic calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+313,where is the housing portal,You can log into the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) using SignOn.,high
+314,i cannot sign into okta,"Point to: ""solutions signon first time""",high
+315,ive already unlocked my st johns email but it wont let me sign in,,low
+316,then what,,none
+317,medical forms,"You can find the medical forms for St. John's University on the online patient portal, Medicat. To access Medicat, go to [signon.stjohns.edu](https://signon.stjohns.edu/) and sign in using your St. John’s network credentials. Once signed in, click on the icon for Medicat (Student Health Services and Wellness) and follow the instructions to obtain and upload health forms.",high
+318,it says sign in fail,"You can try resetting your password by following this [video](https://youtu.be/bPZI6iF6aVo), or you could try unlocking your account by following [these directions](https://ithelp.stjohns.edu/support/solutions/articles/16000043317).<br>If neither of those work, contact the Office of Information Technology at [718-990-5000](tel:7189905000).
+<br/>
+**Office Hours**
+Monday–Friday: 7:30 a.m.– 7:30 p.m. EST.
+*Holiday hours may vary*",high
+319,graduation,You can find dates and locations for graduation ceremonies on the **[Commencement](https://www.stjohns.edu/academics/commencement)** page.,high
+320,is the graduation in the school going to be virtual or in person because of covid,"Point to: ""who should i contact about graduating?""",high
+321,pay for class,"To pay for classes at St. John's University, follow these steps:
+
+1. Log in to Connect via the mobile app or [https://connect.stjohns.edu](https://connect.stjohns.edu/).
+2. Click on the widget for New UIS.
+3. Search for the “Student Accounts” card.
+4. Select the Account Suite- eBills/Payments link.
+5. Select the Term you want to view and pay from the drop-down menu.
+6. View your current charges and any memoed or eligible authorized aid.
+7. Scroll down and click on the blue link ""Make Payment/Enroll in Payment Plan"" to proceed to the payment portal.
+
+For more information on payment options, you can visit [St. John's University Payment Options](https://www.stjohns.edu/admission-aid/tuitionand-financial-aid/payment-options) or contact the Office of Student Financial Services.",high
+322,summer classes,,low
+323,financial aid office hours,"Point to: ""solutions speak to financial aid""",high
+324,course catalog,Course descriptions and offerings can be found on our [Bulletin](https://www.stjohns.edu/academics/academic-resources-and-programs/bulletins).,high
+325,i need to change my phone number,"Point to: ""solutions reset mfa""",high
+326,do you offer scholarship for international students,"Yes, St. John's University offers scholarships for international students. International first-time freshmen students qualify for merit scholarships and additional scholarships. For graduate students, the university provides financial assistance through scholarships, grants, and discounts based on academic ability, School/College, and program of study. More information about scholarships can be found on the university's [Graduate Scholarships page](https://www.stjohns.edu/admission/tuition-and-financial-aid/graduatelaw-aid/www.stjohns.edu/graduatescholarships).",high
+327,winter classes begin january 6th,,low
+328,view class schedule,,none
+329,for undergraduate level,,low
+330,when is the deadline for application for students starting school jan 2024,"The application deadline for students applying for readmission to start school in January 2024 (Spring 2024 term) is January 5, 2024.",high
+331,college advantage program,,low
+332,how do i email the financial aid office,You can contact the Office of Student Financial Services at [studentfinancialserv@stjohns.edu](mailto:studentfinancialserv@stjohns.edu).,high
+333,where do i get my storm card,"Point to: ""help with stormcard""",high
+334,temporary pin,,none
+335,where i have to rent a laptop,You can rent a laptop from your campus. Information about this program is available at [this link](https://stjtechserv.getconnect2.com/).,high
+336,health insurence,"Fire User Message: ""university health insurance""",high
+337,school address,"Point to: ""address""",high
+338,cant get into uis,New UIS users can follow these instructions on how to log into UIS [here](https://ithelp.stjohns.edu/support/solutions/articles/16000016341).,high
+339,i want to talk to a student,"To chat with students and staff about undergraduate programs:
+https://www.stjohns.edu/admission/connect-us/undergraduate-programs-ask-student-or-staff
+
+<br/>or chat with staff about graduate programs:
+https://www.stjohns.edu/admission/connect-us/graduate-programs-ask-counselor.",high
+340,where do i put inthe pin,You enter the PIN on the login page where you input your User ID (X-Number or SS#) and PIN (St. John’s Central password).,high
+341,what is my pin,,low
+342,how do i get a time ticket,"You can obtain your Registration Time Ticket by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the connect app on your smartphone. Choose the New UIS Experience widget, go to My Information – Academic Profile, click Registration Notices, and you will see your Time Ticket. For more information, you can refer to the [Registrar’s Office Web-site on Registration](https://www.stjohns.edu/academics/office-registrar/registration).",high
+343,i am a senior this year,"The [Center for Student Success](https://www.stjohns.edu/academics/centers-institutes/center-student-success) advises first-year students. The [Office of Transfer Student Services](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students/transfer-student-services#:~:text=For%20more%20information%20contact%20our,at%20Tsshelp%40stjohns.edu) advises entering transfer students. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+344,how do i get a parking permit,"To obtain a parking permit at St. John's University, follow these steps:
+
+1. Visit [Connect](https://connect.stjohns.edu/) or use the Connect app on your smartphone.
+2. Click on ""Log In"" and enter your credentials. Employees and faculty members use their full St. John’s University email address, while students use the format firstname.lastname##@my.stjohns.edu (##=two-digit year of entry). First-time users' passwords are capital S, lowercase j, and the eight digits of the ID number on their StormCard.
+3. Choose the Parking Services widget.
+4. Open Parking Services and follow the on-screen instructions.
+
+Permits are mailed to the applicant’s home address within five to seven business days. Ensure your current mailing address is registered. If you do not receive your permit within 30 days, file a report with the Department of Public Safety. For off-campus parking at Seton Complex, DePaul House, and Henley Road, permits are issued in person at the Public Safety office.",high
+345,office hours,"The Customer Service Center can be reached at [718-990-2000](tel:7189902000).
+<br/>
+**Office Hours**
+Monday–Thursday: 8:30 a.m.-4:30 p.m.
+Friday: 8:30 a.m.–3 p.m.
+*Holiday hours may vary*",high
+346,transfer credits,"The Office of Transfer Student Services is charged with providing transfer students with guidance during their transition to St. John’s University.  Every student will be afforded the opportunity to speak with a professional advisor concerning their academic and personal goals. 
+<br/>
+Upon acceptance, a Transfer Student Services advisor will schedule a one-one-one meeting to discuss potential credits granted, various course options and to facilitate the registration process.
+<br/>
+In addition, the Office of Transfer Student Services is a gateway to the many support services and departments across campus, including the academic deans’ offices.  An advisor is always available to answer questions whether by in-person visits, e-mail, or phone.
+<br/>
+You can learn more [here](https://www.stjohns.edu/admission/transfer-admission/transfer-student-services)!",high
+347,commuter meal plan,"Any student can add a meal membership, along with Flex and Dining Dollars, to their StormCard. Visit [here](https://www.stjohns.edu/queens-residential-campus/dining-services) for more information.
+<br/>
+Resident students can visit [Housing Selection](https://www.stjohns.edu/queens-residential-campus/residence-life/housing-selection) to learn more about the building and meal plan requirements. For resident meal plan rates, visit [here](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/room-and-board).",high
+348,dentistry,"Point to: ""dentistry""",high
+349,basketball tickets,"Point to: ""what is going on with mens basketball season tickets this yera""",high
+350,public safety number,"In the event of an emergency medical situation, call 911 or go to your nearest emergency room. Notify Public Safety at [718-990-5252](tel:7189905252) after calling 911.
+<br/>
+To contact Public Safety, call [718-990-5252](tel:7189905252).",high
+351,how much are summer classes,"Point to: ""solutions tuition""",high
+352,queens campus,"Point to: ""address""",high
+353,i have a question about the class,,none
+354,is this a private school,St. John's University is a private Catholic university.,high
+355,what is going on with mens basketball season tickets this yera,,low
+356,study abroad,Find out more about the Study Abroad program [here](https://studyabroad.stjohns.edu/).,high
+357,solutions college advantage transcript,"You can order your transcript online through [UIS](https://www.stjohns.edu/uis).
+
+<br/>Once logged in, you can navigate to 
+<br/>***Student > Student Records > Request Printed/Official Transcript***.
+
+<br/>For more information on the College Advantage Program check [here](https://www.stjohns.edu/admission/other-programs/college-advantage-program).
+
+Point to: ""solutions uis""",high
+358,i dont remember my log in,,none
+359,how do i login to canvas,"To log in to Canvas, you need to access the [Sign-On Portal](https://signon.stjohns.edu) for St. John's students or employees.",high
+360,how do i sign on to the sign on portal,"To sign on to the St. John's Sign-On portal, use your St. John's email as your username, which follows the format: firstname.lastnameYY@my.stjohns.edu, where YY is the two-digit year you entered the University. Your default password is Sjxxxxxxxx, where xxxxxxxx is your Storm Card ID card number (the eight-digit number on the front of your Photo ID card, not your X number). First-time users can watch a [video](https://youtu.be/LGEuKQzLTmY?list=PLZ4iYhOa7b8hV9JAgYkbHusJl7pD_b67K) for guidance and find more detailed instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000010232-how-do-i-log-in-to-the-sign-on-okta-portal-at-signon-stjohns-edu-).",high
+361,forgot security question answer,"Point to: ""solutions reset mfa""",high
+362,what is the school code,"Which code are you asking about?
+
+FAFSA ID
+
+Testing Code
+
+Point to: ""fafsa id""
+
+Point to: ""what is official testing code""",high
+363,dining dollars,You can check your dining dollars and manage your StormCard balance on **[Atrium](https://stjohnsstudentlink.atriumcampus.com/)**.,high
+364,what gpa do i need to get in,"Point to: ""what high school classes are required for a bachelor's degree?""",high
+365,how do i withdraw from a class,"To withdraw from a class at St. John's University, you must contact your Dean’s Office. It is recommended to visit the office in person to discuss the decision. If an in-person meeting is not possible, you must submit a written request to withdraw from the class(es). Withdrawals are noted as ""WD"" on transcripts and do not affect your GPA. Be sure to check the academic calendar for the last day to withdraw from a class.",high
+366,school calendar,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+367,self selection appointment,A self-selection appointment is a designated date and time when a student can access the online housing portal to participate in the online self-selection process. These appointments are sent to the student's St. John's e-mail address.,high
+368,can i change my major,"Point to: ""can i switch majors if i don't like the one i initially chose?""",high
+369,can you provide a map,"Point to: ""solutions campus map""",high
+370,pharmacy program,"St. John’s University offers a six-year, entry-level program that leads to the Doctor of Pharmacy Degree (Pharm.D.). Learn more about the program [here](https://www.stjohns.edu/academics/programs/doctor-pharmacy).",high
+371,do i have to live on campus my first year,Students are not required to live on campus.,high
+372,the spring classes will be hybrid,"Point to: ""can you please show me the academic calendar""",high
+373,how to view my bill,"You can view your bill by logging on to UIS and following the instructions to the Student Account Center. Alternatively, you can click on the ""Student Account Suite,"" which will take you to TouchNet, the secure third-party payment servicer. You can view and print the latest statement as well as previous statements.",high
+374,forget email password,Follow this [video](https://youtu.be/bPZI6iF6aVo) on how to reset your forgotten password.,high
+375,virtual tours,"Yes, St. John's University offers self-guided tours that include video chapters accessible on their [YouTube channel](https://www.youtube.com/watch?v=TqcE16uQRYg&list=PLdrvYadv30-HYExjFXjBs-eIxHrWDC4sg).",high
+376,what pin is needed for uis,"For first-time users accessing the UIS (University Information System), the initial PIN needed is ""Sj"" followed by the eight digits of your X-ID number, without the ""X"". For example, if your X-ID is X01234567, the initial PIN would be Sj01234567.",high
+377,how do i register,"You can find your Registration Time Ticket by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the Connect app on your smartphone. Choose the New UIS Experience widget, go to My Information – Academic Profile - click Registration Notices and you will see your Time Ticket. All students should bring a student advisement report to their advising appointments. Advisors will provide their advisees with a PIN, which is needed to register. 
+
+<br/>For more information, please refer to the [Registrar’s Office website on Registration](https://www.stjohns.edu/academics/office-registrar/registration) and [How do I register for classes using the ""New UIS Experience""?](https://ithelp.stjohns.edu/support/solutions/articles/16000080168).
+
+Are you a first time or first year student?
+
+First Time Student
+
+First Time First Year Student
+
+Point to: ""i am a new first time student, how do i register?""
+
+Point to: ""i am a first time first year student, how do i get registration information?""",high
+378,how can i view my ebill,"Point to: ""solutions payment""",high
+379,nursing,St. John's University offers a [B.S. in Nursing](https://www.stjohns.edu/academics/programs/nursing-bachelor-science).,high
+380,is there a link,,low
+381,i dont remember my security question answer,"Point to: ""solutions reset mfa""",high
+382,i am undergraduate student,,none
+383,how do i find my temporary pin,"For first-time users, your initial temporary PIN for the University Information System (UIS) is ""Sj"" followed by the eight digits of your X-ID, without the ""X"" (e.g., Sj12345678).",high
+384,how do i find out who my advisor is,"After your first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can also visit the Student Academic Advisement page for more information. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, advisement information can be found [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, you can contact them at [718-990-2000](tel:7189902000) during regular office hours.",high
+385,official transcript,"Point to: ""solutions transcript""",high
+386,solutions id number,[Here](https://ithelp.stjohns.edu/support/solutions/articles/16000015364) are instructions on where **students** can find their Storm Card ID number or X number.,high
+387,what are the gpa requirements for admission to st johns university,"Point to: ""what high school classes are required for a bachelor's degree?""",high
+388,st johns delivery address,"All residence/resident mail is delivered to the University Mailroom in the ROTC Building by Gate 6. For mail room hours and residential mailing addresses, visit [here](https://www.stjohns.edu/queens-residential-campus/residence-life/residence-life-handbook/residence-hall-services).",high
+389,solutions diploma,Eligible students can obtain their diploma by submitting an online diploma application on [UIS](https://www.stjohns.edu/uis).,high
+390,i am a junior and i need assistance in finding my academic advisor,"You can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement).",high
+391,i am in my 4th year in college,,low
+392,i wanted to apply as an international student,"To apply to St. John's University as an international student for graduate admission, you need to:
+
+- Provide secondary school records, including diplomas and any external examinations taken.
+- Provide official college and university records (if attended), including diplomas/degrees awarded.
+- Send payment for the $70 USD application fee (non-refundable).
+- Submit the most recent TOEFL score if the language of instruction is not English.
+- Provide an official English translation of all academic records that are not in English.
+
+Additionally, you need to apply for your official Student Visa by making an appointment with your nearest U.S. embassy or consulate and applying for an F-1 (if you have Form I-20) or J-1 (if you have Form DS-2019) student visa. For more information, you can visit the [International Admission](https://www.stjohns.edu/admission/international-admission) page.",high
+393,application,"To apply to **St. John's University**, follow the instructions listed [here](https://www.stjohns.edu/admission/apply).",high
+394,transfer information,"At every point in your transfer journey, you'll experience personalized attention from a team of admissions, financial aid, and academic advisers. Visit [Transfer Admission](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students) to learn more and apply!",high
+395,where do i submit my medical forms,"You can submit your medical forms for St. John's University through the online patient portal, Medicat. Once you have access, sign in at [signon.stjohns.edu](https://signon.stjohns.edu/home/stjohnsuniversity_medicat_1/0oa4kfc22mckTlWV0357/aln4kfjqbs1ksI18A357?fromHome=true) using your St. John's network credentials. After signing in, click on the icon for Medicat, select Uploads, and follow the instructions to upload your forms.",high
+396,i want to schedule a visit,"You can schedule a campus tour for prospective undergraduate students [here](https://apply.stjohns.edu/portal/campus_visit_Queens) and for prospective graduate students [here](https://grad.stjohns.edu/portal/graduate_tours). If you have questions before your visit, you can contact St. John's University at [718-990-3368](tel:7189903368) or [visit@stjohns.edu](mailto:visit@stjohns.edu).",high
+397,i forgot my x id,"If you have forgotten your User ID, you should contact the Office of Information Technology at [718-990-5000](tel:7189905000) for assistance. You can also find it on [UIS](https://ithelp.stjohns.edu/support/solutions/articles/16000015364). The Service Desk is available weekdays between 7:30 AM - 7:30 PM EST.",high
+398,visit,"You can schedule a campus tour for prospective undergraduate students [here](https://apply.stjohns.edu/portal/campus_visit_Queens) and for prospective graduate students [here](https://grad.stjohns.edu/portal/graduate_tours). If you have questions before your visit, you can contact St. John's University at [718-990-3368](tel:7189903368) or [visit@stjohns.edu](mailto:visit@stjohns.edu).",high
+399,how do i transfer,"To transfer to St. John's University, you need to follow these steps:
+
+1. **Application**: Submit a formal application to the university.
+2. **Official Records**: Provide official school records from your previous college or university.
+3. **Transfer Credit**: Present catalog descriptions of the graduate courses for which you seek transfer credit or advanced standing. Complete a Transfer of Credit form if applicable.
+4. **Grade Requirements**: Ensure that the courses you wish to transfer have a grade of ""B"" (3.0) or higher and are within the stipulated time limit.
+5. **Evaluation**: The academic Dean will evaluate all documentation to approve requests for transfer of credit or advanced standing.
+6. **Contact Information**: For questions or assistance, contact the Office of Transfer Admission at 718-990-2051 or email [transfers@stjohns.edu](mailto:transfers@stjohns.edu).
+
+For more information, you can also [meet the Transfer Advising Team](https://www.stjohns.edu/admission/connect-us/st-johns-counselor-directory).",high
+400,cant access my uis account,"If you are having trouble accessing your UIS account at St. John's University, you can seek assistance from the St. John's University Service Desk. You may also find helpful information and instructions on how to log in to UIS by visiting the [How do I log in to UIS? (University Information System)](https://ithelp.stjohns.edu/support/solutions/articles/16000016341-how-do-i-log-in-to-uis-university-information-system-) page. Additionally, you can explore other related articles for guidance on navigating and using the UIS system.",high
+401,what is my email address,"Point to: ""solutions signon first time""",high
+402,how do i find my x number,"Point to: ""solutions forgot x number""",high
+403,fafsa,"To apply for FAFSA at St. John's University, follow these steps:
+
+1. Complete the Free Application for Federal Student Aid (FAFSA) online at [studentaid.gov](https://studentaid.gov/h/apply-for-aid/fafsa). 
+
+2. Ensure that you include St. John's University Title IV federal school code, which is 002823, on your FAFSA.
+
+3. Keep copies of all documents used to complete the FAFSA in case your application is chosen for federal verification.
+
+Remember, you must complete a FAFSA every year, and you should not wait to be admitted to the University to apply. Make sure you complete the application for the correct academic year.",high
+404,storm card,"A Storm Card at St. John's University is a University identification card that serves as the primary means of identification for students and employees on campus. It certifies affiliation with the University and provides proof of eligibility for certain services, purchases, and access control. The card can be used in dining facilities, libraries, bookstores, vending machines, and for entry/exit gates. It is non-transferable and must be carried at all times on University properties. If lost, it should be reported immediately, and a replacement can be obtained from the Public Safety office. There is a fee for replacing a lost card, which starts at $25 and can increase to a maximum of $35 for subsequent replacements.",high
+405,how do i access my immunization forms,"To access your immunization forms:
+
+1. Sign into your [signon.stjohns.edu](https://signon.stjohns.edu/) account with your university credentials.
+2. Select the icon “Medicat Student Health Services & Wellness”.
+3. Select the “Immunization"" page.
+4. Select the green ""Print"" button to print all of your immunizations.
+5. Then go to the “Upload” page, and scroll down to the bottom.
+6. Any form that you submitted to St. John's should be accessible for you to print (e.g. actual copies of medical forms you submitted from your doctor).",high
+406,customer service,"Point to: ""solutions agent""",high
+407,finding course descriptions,"Point to: ""solutions course offerings""",high
+408,deposit refund,"If you are not eligible or no longer interested in participating in the selection process, you must log in to the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) and complete the deposit refund form (found under the self-service forms tab) by the deadlines established in the Housing Calendar. 
+
+<br/>If you wish to decline your housing and meal plan after making a selection, please log into the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) and complete a Housing Decline form. This will cancel your room and board selections, and cancel your housing application.
+
+**Deposits for incoming students, new transfers, and new graduate students are non-refundable**.",high
+409,move in list,"Students can access the Move In Ready checklist in UIS by logging on to [signon.stjohns.edu](htts://signon.stjohns.edu)  and clicking on the “UIS” button, and the following steps:
+- Select the “Student” tab 
+- Click “Student Life” <br/>
+- Click “Resident Student”<br/>
+- Click “Move-in Ready Checklist”",high
+410,career services,"The Career Center at St. John's University offers a wide range of services, including personalized career advisement, one-on-one career advising sessions, resume writing and cover letter assistance, internship and job search strategies, networking, and evaluating job offers and salary negotiations. They provide access to internships and employment opportunities through career and internship fairs, networking events, and information sessions. The center also offers leadership and professional development programs to help students acquire essential leadership skills. Additionally, they provide access to the Handshake platform for job, internship, and campus recruiting listings, as well as mentoring programs for first-year and upper-level students.",high
+411,change password,"Point to: ""solutions reset password""",high
+412,when does the fall semester start,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+413,1000 am,,low
+414,what is my log in information,"Point to: ""solutions signon first time""",high
+415,solutions admissions,"Who do you want to speak to?
+
+You can contact the Office of Undergraduate Admission at:
+
+<br/>Phone: [718-990-2000](tel:7189902000)
+<br/>Email: [admhelp@stjohns.edu](mailto:admhelp@stjohns.edu)
+
+You can contact the Office of Graduate Admissions at:
+
+<br/>Phone: [718-990-1601](tel:7189901601)
+<br/>Email: [gradhelp@stjohns.edu](mailto:gradhelp@stjohns.edu)
+
+You can contact Transfer Admissions at:
+
+<br/>Phone: [718-990-2051](tel:7189902051)
+<br/>Email: [transfers@stjohns.edu](mailto:transfers@stjohns.edu)
+
+Undergraduate Admissions
+
+Graduate Admissions
+
+Transfer Admissions",high
+416,how do i know who my dean on queens campus is,"Point to: ""i am a junior and i need assistance in finding my academic advisor.""",high
+417,can you provide me with the email address for alana glaser a professor at st johns,"Our world-class scholar-teachers are one reason students from around the globe select St. John’s to acquire the knowledge and skills to excel in their careers. To learn more about our faculty, visit [here](https://www.stjohns.edu/academics/faculty).",high
+418,is going to be virtual or in person,"Point to: ""who should i contact about graduating?""",high
+419,solutions work order,You can submit a work order [here](https://stju.webtma.com/?tkn=aJag-oLT5v3_n_AM7J1iHndaINby7INgyaPE_tajlTu0I_SclAamO4DhljkDv__iTa90z6U0l2G-g6X6pWuolnCaCP3899mTX4fWgssaDJR5Quwzw9tHKmuLnDe96cP0C7Sc5Ux8GuDK0yshv5Kt_PfW8fq2Z40FLssUnHRd6eH2LMreskln_qUXdf_42HUFewtSBuqlb11GuGyuYQUNnEAjEKuICH6zFbJ_ZcDTIHIh3eY0roS-PoR0u6Y6T57n).,high
+420,password,"Point to: ""solutions forgot password""",high
+421,clep exam,"The CLEP exam allows students to earn college credits in various areas such as Science, Math, English, History, and Languages. Each exam is worth 3 college credits, and students can complete up to 12 deficiency credits via the CLEP exam. A passing score is considered 51 and above. More information can be found on the CLEP website. St. John's University no longer proctors the CLEP Exam. CLEP or other credit-by-test can only be done for a total of 9 credits over a 4- or 5-year program, and they may not be used in Education courses or in the student’s concentration area. Seniors are not allowed to take any CLEP or credit-by-test examination.",high
+422,when do classes begin in the spring 2024 semester,"Which academic calendar would you like to see?
+
+https://www.stjohns.edu/academics/academic-resources/academic-calendar
+
+New York Campuses
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-st-johns-semester-paris
+
+Paris Campus
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-study-abroad-rome
+
+Rome Campus Academic Calendar
+
+https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs/academic-calendars-undergraduate-programs-abroad/academic-calendar-western-europe-semester-programs
+
+Western Europe Campuses
+
+https://www.stjohns.edu/law/academics/academic-calendar
+
+Law School
+
+New York Campuses
+
+Paris Campus
+
+Rome Campus
+
+Western Europe Campuses
+
+Law School",high
+423,how do i submit my highschool transcript,"To submit your high school transcript to St. John's University, you can send official transcripts directly to:
+
+St. John's University  
+Office of Transfer Admission  
+8000 Utopia Pkwy.  
+Queens, NY 11439  
+
+If you are requesting an electronic transcript, direct it to the Office of Undergraduate Admission at [transfers@stjohns.edu](https://www.stjohns.edu/admission/undergraduate-admission/transfers@stjohns.edu). 
+
+For international students, electronic transcripts must be emailed directly from your previous institution from an official school email domain to [intladm@stjohns.edu](mailto:intladm@stjohns.edu).",high
+424,spring 2024,,low
+425,gpa,"For admission to the M.A. program in English at St. John's University, an undergraduate GPA of at least 3.0 is required, with a 3.5 GPA in English courses.",high
+426,contact the registrar office,"Point to: ""what is the phone number for the registrar's office?""",high
+427,the big interview,"""Big Interview"" is a video-based software offered by St. John’s University Career Services to help users prepare for interviews and practice their skills. It provides a variety of tools, including challenging virtual mock interviews for all experience levels, a database of thousands of interview questions across various industries with tips on how to answer them, and a step-by-step interview answer builder for crafting answers to behavioral questions. Alumni can register for Big Interview and need to contact Career Services for the Organizational Code to access the site. More information can be found [here](https://stjohnsalumni.biginterview.com/).",high
+428,high school,"Whether you are a high school student who wants to enroll in credit-bearing courses, explore early admission options, or a college student interested in summer session courses, St. John's University has something for you! Visit [here](https://www.stjohns.edu/admission/other-programs) for more information.",high
+429,i will be graduating in may 2024 in the spring,"If you are graduating in May 2024, you may be eligible for certain awards and events. For example, pharmacy students graduating in May 2024 can apply for awards such as the [Facts and Comparisons Award for Excellence](https://forms.office.com/r/hhjmeyVqt7), [St. Lukes/St. Giovanni Leonardi Award](https://forms.office.com/r/RPAYnBzESr), [TEVA Pharmaceuticals Award](https://forms.office.com/r/RcAhCKX11q), and [Natural Medicine Comprehensive Database Recognition Award](https://forms.office.com/r/xPDLyVtqY5). Additionally, if you are part of the graduating class of the Peter J. Tobin College of Business, you are invited to attend a special “2020 Senior Prom” event on May 3, 2024, as a celebration of your achievements and to acknowledge the challenges faced during the pandemic.",high
+430,how to set up uis account,"To set up your UIS account at St. John's University, use your official St. John's ID number, which starts with a capital ""X"" and appears on your acceptance letter. For first-time users, your initial PIN is ""Sj"" followed by the eight digits of your X-ID, without the ""X"" (e.g., Sj12345678). Once logged in, you can change your PIN by clicking the Personal Information Menu.",high
+431,how do i log into my st johns university,"Point to: ""solutions signon first time employee""",high
+432,i am in my senior year,"The [Center for Student Success](https://www.stjohns.edu/academics/centers-institutes/center-student-success) advises first-year students. The [Office of Transfer Student Services](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students/transfer-student-services#:~:text=For%20more%20information%20contact%20our,at%20Tsshelp%40stjohns.edu) advises entering transfer students. After the first year, you can find your academic advisor by contacting the College office and faculty advisors in major departments. You can schedule an appointment, find your academic dean, and more by visiting the Student Academic Advisement page. If you are in the College of Liberal Arts and Sciences, you can contact the dean's office [here](https://www.stjohns.edu/academics/schools/st-johns-college-liberal-arts-and-sciences/contact). If you are in the College of Professional Studies, you can find advisement information [here](https://www.stjohns.edu/academics/schools/college-professional-studies/ccps-student-services/ccps-academic-advisement). For all other College offices, contact us at [718-990-2000](tel:7189902000) during regular office hours.",high
+433,when is the first day of school,"Point to: ""Academic calendar""",high
+434,i am unable to log into my outlook canvas,First-time users can watch this [video](https://youtu.be/LGEuKQzLTmY?list=PLZ4iYhOa7b8hV9JAgYkbHusJl7pD_b67K) on how to sign on and more detailed instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000010232-how-do-i-log-in-to-the-sign-on-okta-portal-at-signon-stjohns-edu-).,high
+435,i do not have a photo id card,"Point to: ""solutions id number""",high
+436,parking,There is only one option available when requesting a St. John’s University Parking Permit: resident parking.,high
+437,i cant log into my st johns email,"Point to: ""solutions signon first time""",high
+438,withdraw from class,"If you want to drop a course, you must complete a Change of Program and inform your dean of this in writing. Read more on [Withdrawals and Credits](https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/withdrawals-and-credits).",high
+439,do you guys have the option of studying abroad,Learn more about the study abroad program options [here](https://www.stjohns.edu/academics/study-abroad-global-programs).,high
+440,advisment appointment,"Point to: ""advisement""",high
+441,where can i find this,"You can find information about the study abroad program options at St. John's University by visiting the [Global Education](https://www.stjohns.edu/academics/global-education) and [Global Studies](https://www.stjohns.edu/academics/global-programs) pages. Additionally, you can explore the OIE Outbound Programs page [here](https://www.stjohns.edu/academics/study-abroad-global-programs/study-and-volunteering-abroad/office-international-education-oie-outbound-programs) for more details on study abroad opportunities. For further assistance, you can contact the Office of International Education at [studyabroad@stjohns.edu](mailto:studyabroad@stjohns.edu).",high
+442,i am a new user i cant able to login the portal,"If you are a new user and can't log in to the portal, please refer to the guide on how to log in for the first time: [How do I log in to UIS for the first time?](https://ithelp.stjohns.edu/support/solutions/articles/16000016341). This resource should provide you with the necessary steps to access the portal.",high
+443,register for classes,"You can find your Registration Time Ticket by logging into [connect.stjohns.edu](https://connect.stjohns.edu/) or using the Connect app on your smartphone. Choose the New UIS Experience widget, go to My Information – Academic Profile - click Registration Notices and you will see your Time Ticket. All students should bring a student advisement report to their advising appointments. Advisors will provide their advisees with a PIN, which is needed to register. 
+
+<br/>For more information, please refer to the [Registrar’s Office website on Registration](https://www.stjohns.edu/academics/office-registrar/registration) and [How do I register for classes using the ""New UIS Experience""?](https://ithelp.stjohns.edu/support/solutions/articles/16000080168).
+
+Are you a first time or first year student?
+
+First Time Student
+
+First Time First Year Student
+
+Point to: ""i am a new first time student, how do i register?""
+
+Point to: ""i am a first time first year student, how do i get registration information?""",high
+444,employment opportunities,"Point to: ""solutions jobs""",high
+445,tour the school,"Yes, you can schedule a campus tour for prospective undergraduate students [here](https://apply.stjohns.edu/portal/campus_visit_Queens) and for prospective graduate students [here](https://grad.stjohns.edu/portal/graduate_tours). If you have questions before your visit, you can contact them at [718-990-3368](tel:7189903368) or [visit@stjohns.edu](mailto:visit@stjohns.edu).",high
+446,ordering transcript alumni,"Electronic transcripts may be ordered from the [Parchment website](https://www.parchment.com/u/registration/33150/account) if you attended after 1989.  There is a service fee. You can also request a printed transcript via [**UIS**](https://www.stjohns.edu/uis). Please visit follow the instructions [here](https://www.stjohns.edu/academics/office-registrar#transcript). 
+
+<br/>If you attended or graduated St. John's prior to 1990, please follow the instructions here [for mail-in requests](https://www.stjohns.edu/academics/office-registrar#transcript). 
+
+<br/>Law School students please find instructions at the [Law School Office of the Registrar](https://www.stjohns.edu/law/student-services/office-registrar).<br/>",high
+447,how much per semester,,low
+448,overnight guest,,none
+449,course description,"Point to: ""solutions course offerings""",high
+450,where can i see my grades,"You can view your grades on the [New UIS Experience](https://connect.stjohns.edu/) by logging in and selecting the ""View My Grades"" card. Midterm grades can be viewed on the [UIS](https://banssb.stjohns.edu/ssb/) by logging in, selecting the Student tab, and then selecting Student Records.",high
+451,who is your chancellor,"Point to: ""who is your chancellor""",high
+452,tell me about your sports,"St. John’s University offers a variety of sports programs, including an Intramural program that provides formal recreational sports opportunities for students, faculty, staff, and administrators. The university also offers a Personal Training program with one-on-one sessions with a qualified personal trainer. The Club Sports Program allows students with similar interests to participate in various sports and recreational activities, with current clubs including Bowling, Kickline, Men’s Basketball, Running/Track, Tennis, Ultimate Frisbee, and Women’s Soccer.
+
+Additionally, St. John’s has intercollegiate athletic teams. For women, the university competes in basketball, softball, fencing, tennis, cross country, indoor and outdoor track and field, soccer, volleyball, and golf. Men's teams compete in baseball, basketball, fencing, lacrosse, soccer, tennis, and golf. The university is a member of several athletic associations, including the NCAA and the BIG EAST Conference.
+
+The Fitness Center offers a wide variety of cardio and strength training equipment. For more information, visit [www.stjohns.edu/crec](www.stjohns.edu/crec).",high
+453,former student,"**Welcome to St. John's University**
+
+What do you need help with?
+
+Access Email
+
+Request Transcript
+
+Point to: ""solutions alumni email""
+
+Point to: ""solutions transcript""",high
+454,why am i not getting a sms code,"For assistance with logging in, please give the Service Desk a call at 718-990-5000. After verifying your identity, we can help you unlock your account. Our business hours are Mon - Fri, 7:30 AM to 7:30 PM.",high
+455,need help with signing into my account,"To sign into your St. John's University account, follow these steps:
+
+1. Your username is your St. John's email, formatted as firstname.lastnameYY@my.stjohns.edu, where YY is the two-digit year you entered the university. For example, john.doe23@my.stjohns.edu.
+
+2. Your default password is Sjxxxxxxxx, where xxxxxxxx is your Storm Card ID card number (the eight-digit number on the front of your Photo ID card, not your X number).
+
+3. First-time users can watch a [video](https://youtu.be/LGEuKQzLTmY?list=PLZ4iYhOa7b8hV9JAgYkbHusJl7pD_b67K) for guidance and find more detailed instructions [here](https://ithelp.stjohns.edu/support/solutions/articles/16000010232-how-do-i-log-in-to-the-sign-on-okta-portal-at-signon-stjohns-edu-).
+
+4. Navigate to [signon.stjohns.edu](http://signon.stjohns.edu/) and enter your St. John's University email address and password.
+
+5. You may need to approve your login using one of your authentication methods.",high
+456,how to transfer those credits,"To transfer credits to St. John's University, you need to present a formal application along with official school records from your current college or university. You must also provide catalog descriptions of the courses for which you are requesting transfer credit or advanced standing. A Transfer of Credit form, available from the office of the appropriate academic dean, may need to be completed. The academic Dean will evaluate all documentation to approve requests for transfer of credit or advanced standing. Note that no credit will be allowed for courses beyond the stipulated time limit or in which the grade attained is below a ""B"" (3.0). For further questions, you can contact the transfer admission specialists via email at transfers@stjohns.edu or by phone at (718) 990-2051. More information can be found on the [transfer admissions webpage](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students).",high
+457,how do i reset my pin,"To reset your PIN for your St. John's University account, follow these steps:
+
+1. Go to [www.stjohns.edu/UIS](http://www.stjohns.edu/UIS).
+2. Enter your X number with the capital letter X, and then click ""Forgot PIN.""
+3. You will be prompted to reset your UIS PIN after answering a security question that you created when you first set it up.
+
+If you do not remember your security question/answer, you can call the service desk for further assistance. You will be required to verify your ID over the phone to proceed with a password reset. The service desk can be reached at (718) 990-5000, Option 2, Monday to Friday, 7:30 a.m. to 7:30 p.m. EST.",high
+458,what are the requirements to apply,"Point to: ""solutions requirements""",high
+459,where is st johns,"St. John's University is located at 8000 Utopia Parkway, Queens, NY 11439. The university also has a campus in Rome and locations in Paris and Limerick. For directions and more information, visit [Find Us](https://www.stjohns.edu/queens-residential-campus/directions-and-area-hotels).",high
+460,graduate programs,,low
+461,i am new to sju how do i sign on,"To sign on to your St. John's University account as a new student, follow these steps:
+
+1. **Username:** Your username is in the format of firstname.lastnameYY@my.stjohns.edu, where ""YY"" is the two-digit year you entered the university. For example, john.doe23@my.stjohns.edu.
+
+2. **Default Password:** Your default password is Sjxxxxxxxx, where ""xxxxxxxx"" is your Storm Card ID card number (the eight-digit number on the front of your Photo ID card, not your X number).
+
+3. **Access SignOn:** Go to [SignOn](https://signon.stjohns.edu).
+
+4. **First-Time Setup:** As a first-time user, you will need to complete some one-time actions to set up enhanced security features, including selecting a secondary authentication method for two-factor authentication. You can choose to receive a text message, use an app on your mobile phone, or receive a call with a code.
+
+5. **Access Applications:** Once signed in, click on the icon of the app you wish to access.
+
+For more detailed instructions, you can watch this [video](https://youtu.be/LGEuKQzLTmY?list=PLZ4iYhO",high
+462,how do i submit my immunization forms,"To access your immunization forms:
+
+1. Sign into your [signon.stjohns.edu](https://signon.stjohns.edu/) account with your university credentials.
+2. Select the icon “Medicat Student Health Services & Wellness”.
+3. Select the “Immunization"" page.
+4. Select the green ""Print"" button to print all of your immunizations.
+5. Then go to the “Upload” page, and scroll down to the bottom.
+6. Any form that you submitted to St. John's should be accessible for you to print (e.g. actual copies of medical forms you submitted from your doctor).",high
+463,what is st johns email,"Point to: ""solutions signon first time""",high
+464,classes,"Point to: ""how can i find course descriptions at st. john's university?""",high
+465,what days are available,"Immunization forms can be submitted at St. John's University from Monday to Thursday between 8:30 a.m. and 4:30 p.m., and on Friday from 8:30 a.m. to 3:00 p.m. The office is closed on Fridays during the summer break.",high
+466,job openings,"Point to: ""solutions jobs""",high
+467,where do i contact residence life,"You can contact the Residence Life office at St. John's University by reaching out to Joseph Dratch, the Associate Director of Residence Life, at 718-990-2417 or via email at [dratchj@stjohns.edu](mailto:dratchj@stjohns.edu).",high
+468,nothing is working,"Point to: ""solutions agent""",high
+469,what building is sjh,SJH is St. John's Hall.,high
+470,how to get a room in st augustine,You can read more about [**Quiet Study and Group Study Rooms**](https://www.stjohns.edu/libraries/help-services/quiet-study-and-group-study).,high
+471,graduation ceremony will be in person or virtual,"Point to: ""i have a question about graduation?""",high
+472,is the graduation going to be virtual or in person,"Point to: ""i have a question about graduation?""",high
+473,where is the portal,"Point to: ""solutions signon first time""",high
+474,where can i find online orientation,"You can find the Online Orientation modules for St. John's University as part of the First-Year Student Orientation and Transfer Orientation programs. These modules will help familiarize you with campus resources and introduce you to student life before you arrive on campus. For more information, you can contact the orientation team at [orientation@stjohns.edu](mailto:orientation@stjohns.edu) or call 718-990-5353.",high
+475,test sso,,low
+476,where is human resources located,,none
+477,what is the mailing address for the bursars office,"The mailing address for the bursar's office is:
+
+<br/>St. John’s University
+<br/>Student Financial Services
+<br/>8000 Utopia Parkway
+<br/>​Queens, NY 11439",high
+478,payment plan,"St. John's University offers several payment plan options for undergraduate, graduate, and law students, as well as those assisting them with educational expenses. The benefits of these payment plans include:
+
+- The ability to make multiple payments instead of one lump sum.
+- Interest-free plans if payments are made on time.
+- Enrollment with as little as a 25% down payment.
+- Consideration of approved or pending financial aid to reduce the outstanding balance.
+- Auto Pay feature for automatic payments from a credit card or ACH checking/savings account to ensure timely payments.
+- Authorized users, other than the student, can view and pay the bill once invited as an Authorized User.
+
+For more details, you can [learn more about your payment options here](https://www.stjohns.edu/admission/tuition-and-financial-aid/payment-options).",high
+479,i cant log into my email,"If you cannot log into your St. John's University email, you can try the following steps:
+
+- If you need to reset or recover your password, go to [https://signon.stjohns.edu](https://signon.stjohns.edu) and select ""Need help signing in?""
+- If you know your password, log on, click on your name, then go to Settings, and Edit Profile to change your password.
+- If you need further assistance, contact the IT Service Desk at [718-990-5000](tel:7189905000).",high
+480,how can i access my transcript,"Point to: ""solutions transcript""",high
+481,connect to sjumobile wifi,"To connect to the SJUMobile Wi-Fi, follow these steps based on your device:
+
+**For Android:**
+1. Go to Settings and then the Connections/Wi-Fi section.
+2. Ensure Wi-Fi is turned ON.
+3. Select SJUMobile from the list of networks.
+4. Enter your ""Identity"" (email address) and password (same credentials as [signon.stjohns.edu](https://signon.stjohns.edu)).
+5. If prompted for ""CA Certificate,"" select ""Do not Validate"" or ""None,"" then click Connect.
+
+**For Windows:**
+1. Search for Wi-Fi in your settings and click on Wi-Fi Settings under System Settings.
+2. Click Manage Known Networks.
+3. Click on SJUMobile and then the “Forget” button.
+4. Reconnect to SJUMobile by following the steps provided [here](https://ithelp.stjohns.edu/support/solutions/articles/16000015825).
+
+For other devices like iOS, Mac OSX, Google Pixel, and specific instructions for ChromeBooks, refer to the detailed guides available on the St. John's University Service Desk website. Make sure your device is updated to the latest OS before connecting.",high
+482,where can i see my fall schedule,"You can view your fall class schedule at St. John's University by logging into St. John’s Connect and clicking on the “New UIS Experience.” Then, scroll down to the card labeled “Registration” and click on the tab that says “Look Up a Schedule.” You can also use the mobile Connect App by logging in and locating the tile labeled “Student Schedule.” Additionally, you can log in to the Sign-On portal and click “Connect” to see your schedule displayed on the right side of the page. If you need further assistance, visit [St. John's IT Help](https://ithelp.stjohns.edu) or call the Service Desk at 718-990-5000.",high
+483,degree works,"To access DegreeWorks at St. John's University, follow these steps:
+
+1. Sign in to the portal at [https://signon.stjohns.edu](https://signon.stjohns.edu/).
+2. Once logged on, click the ""DegreeWorks"" widget to access the Student Advisement Report.
+3. A report is automatically generated as soon as you log in to DegreeWorks, with data broken down into individual cards representing areas to be met for your degree progress.
+
+If you need assistance with logging in, you can refer to the [Student Instructions](https://ithelp.stjohns.edu/a/solutions/articles/16000014264). If you need your password reset, follow the instructions [here](https://ithelp.stjohns.edu/a/solutions/articles/16000016496). For additional questions, contact your Advisor or the Office of the Registrar at [registrars@stjohns.edu](mailto:registrars@stjohns.edu) or 718-990-1339.",high
+484,center for student success,"The Center for Student Success at St. John's University is located in St. Augustine Hall (University Library), Room 104.",high
+485,school colors,,low
+486,transfer,"At every point in your transfer journey, you'll experience personalized attention from a team of admissions, financial aid, and academic advisers. Visit [Transfer Admission](https://www.stjohns.edu/admission/st-johns-welcomes-transfer-students) to learn more and apply!",high
+487,does st john require sat scores,"Point to: ""how to apply""",high
+488,is financial aid available for international students,"Yes, financial aid is available for international students at St. John's University. A limited number of Graduate/Teaching/Research Assistantships and Fellowships are available within academic and administrative departments. Recipients of assistantships work to assist University faculty or departments, while fellowship recipients earn funds for research. New graduate applicants interested in these opportunities should complete an online application through their student portal.",high
+489,i want to cancel my enrollment,"To cancel your enrollment at St. John's University, you must officially notify the university of your change in status. If you want to drop all your classes, you must inform your Dean in writing. It is recommended to visit the Dean’s Office in person to discuss your decision. If an in-person meeting is not possible, you should put your request to withdraw from classes in writing. For further assistance, you can contact the Office of Undergraduate Admission at [admhelp@stjohns.edu](mailto:admhelp@stjohns.edu).",high
+490,what is the high school gpa requirement to attend st johns,"Point to: ""what are the gpa requirements for admission to st. john's university?""",high
+491,how do i cancel enrollment and get a refund on my deposit,"If you are not eligible or no longer interested in participating in the selection process, you must log in to the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) and complete the deposit refund form (found under the self-service forms tab) by the deadlines established in the Housing Calendar. 
+
+<br/>If you wish to decline your housing and meal plan after making a selection, please log into the [St. John's Housing Portal](https://stjohns.starrezhousing.com/StarRezPortalX) and complete a Housing Decline form. This will cancel your room and board selections, and cancel your housing application.
+
+**Deposits for incoming students, new transfers, and new graduate students are non-refundable**.",high
+492,it contact,"You can contact St. John's University for assistance through the following means:
+
+- **International Student and Scholar Services**: Email iss@stjohns.edu or call 718-990-6083. You can also schedule an appointment with an International Student Advisor [here](https://www.stjohns.edu/admission/international-admission/international-student-and-scholar-services).
+
+- **Student Financial Services**: Email [studentfinancialserv@stjohns.edu](mailto:studentfinancialserv@stjohns.edu) or call 718-990-2000. Verification documents can be uploaded [here](https://stjohnsfinancialservices.docmgt.cloud/Form/sjufinaidportal).
+
+- **Registrar & Student Records**: Email [registrar@stjohns.edu](mailto:registrar@stjohns.edu).
+
+- **IT and Laptop Assistance**: Call 718-990-5000 and visit [this page](https://www.stjohns.edu/about/leadership-and-administration/administrative-offices/information-technology).
+
+- **Counseling Services**: Visit [this page](https://www.stjohns.edu/life-st-johns/health-and-wellness/center-counseling-and-cons",high
+493,clubs,"Point to: ""can you give me a list of all the clubs on campus""",high
+494,how do i register for freshmen orientation,"To register for freshman orientation, you must first pay your deposit. After that, you can register for the Orientation Connection Days. If you have any questions, you can contact orientation@stjohns.edu or call 718-990-5353. For more information, you can check the [New Student Guide Checklist](https://www.stjohns.edu/admission/undergraduate-admission/accepted-students/new-student-guide-checklist).",high
+495,how do i change my password,"Point to: ""solutions reset password""",high
+496,directory,"If you are a current employee or student, you can find the directory by logging into [Sign-On](https://signon.stjohns.edu) and searching for the Employee Directory icon. The directory is only available to active employees and students.",high
+497,the graduation ceremony will be on monday may 19 2024,"Point to: ""solutions graduation""",high
+498,how do i submit my final highschool transcript,"To submit your final high school transcript to St. John's University, you can send an official transcript directly to:
+
+St. John's University  
+Office of Transfer Admission  
+8000 Utopia Pkwy.  
+Queens, NY 11439  
+
+If you are requesting an electronic transcript, it should be emailed directly from your previous institution's official school email domain to [transfers@stjohns.edu](mailto:transfers@stjohns.edu).",high
+499,registrar office email,The email address for the registrar's office at St. John's University is [registrars@stjohns.edu](mailto:registrars@stjohns.edu).,high
