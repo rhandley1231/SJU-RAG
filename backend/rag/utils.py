@@ -2,14 +2,13 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain.chains import ConversationalRetrievalChain
 from langchain_core.chat_history import InMemoryChatMessageHistory
-from langchain_core.messages import HumanMessage, AIMessage
+from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from dotenv import load_dotenv
 import uuid
 import os
 from pinecone import Pinecone, ServerlessSpec
 from langchain_community.llms import OpenAI  # Use the correct module for OpenAI
-from dotenv import load_dotenv
-import os
+
 
 # Load environment variables from .env
 load_dotenv()
@@ -52,10 +51,22 @@ chatbot_chain = ConversationalRetrievalChain.from_llm(
 # Global session storage for chat histories
 session_store = {}
 
+# Define the global system prompt
+SYSTEM_PROMPT = SystemMessage(
+    content='''
+    You are a helpful assistant specializing in university-related topics.
+    Provide concise, accurate answers based on the retrieved information,
+    and prioritize clarity while being polite and informative. Provide the 
+    link based on the source from the metadata. Retrieve the most 
+    recent information available.
+    '''
+)
+
 def get_session_history(session_id):
     """Retrieve or initialize chat history for a session."""
     if session_id not in session_store:
         session_store[session_id] = InMemoryChatMessageHistory()
+        session_store[session_id].add_message(SYSTEM_PROMPT)
     return session_store[session_id]
 
 def conversational_rag(question, session_id=None):
@@ -73,14 +84,32 @@ def conversational_rag(question, session_id=None):
     # Run the question with the chatbot chain
     response = chatbot_chain.invoke({
         "question": question,
-        "chat_history": chat_history.messages  # Pass the chat history messages directly
+        "chat_history": chat_history.messages,  # Pass the chat history messages directly
+        
     })
     
     answer = response['answer']
     source_documents = response.get('source_documents', [])
     
+    # Extract and deduplicate source links
+    sources = set()  # Use a set to ensure uniqueness
+    for doc in source_documents:
+        source_url = doc.metadata.get('source')
+        if source_url:
+            sources.add(source_url)
+    
     # Add the assistant's response to the chat history
-    chat_history.add_ai_message(answer)
+    answer_with_sources = answer
+    if sources:
+        source_links = "<br>".join(
+            f'<a href="{link}" target="_blank">{link}</a>'
+            for link in sources
+        )
+        answer_with_sources += f"<br><br><strong>Sources:</strong><br>{source_links}"
+
+    # Add the message to the chat history
+    chat_history.add_ai_message(f'<div class="bot-message">{answer_with_sources}</div>')
+
     
     # Format chat history for frontend
     formatted_history = [
@@ -89,7 +118,7 @@ def conversational_rag(question, session_id=None):
     ]
     
     return {
-        'answer': answer,
+        'answer': answer_with_sources,
         'chat_history': formatted_history,
         'source_documents': source_documents,
         'session_id': session_id  # Return session ID for reuse

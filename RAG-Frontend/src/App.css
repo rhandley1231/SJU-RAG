@@ -7,28 +7,86 @@
   font-family: 'Montserrat', sans-serif; /* Updated Font */
 }
 
+/* Header Styling */
 .header {
-  width: 100%; /* Full width */
-  text-align: center; /* Center the text horizontally */
-  font-size: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem; /* Default font size */
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
-  color: #fafafa; /* St. John's Red */
+  color: #fafafa;
   padding: 20px 0;
-  position: absolute; /* Fix the header to the top */
-  top: 0; /* Align to the very top */
-  left: 0; /* Ensure full alignment for the full width */
-  z-index: 10; /* Make sure it appears above other elements */
-  
+  margin-bottom: 30px; /* Add consistent spacing below the header */
+  transition: font-size 0.3s ease, padding 0.3s ease;
 }
 
-/* Responsive Container */
 @media (max-width: 768px) {
-  #root {
-    padding: 1rem;
-  }
   .header {
-    font-size: 1.8rem;
+    font-size: 1.5rem; /* Adjust font size */
+    padding: 15px 0;
+    margin-bottom: 20px; /* Adjust spacing */
+  }
+
+  .chatbot-container {
+    height: calc(100vh - 150px); /* Adjust height dynamically */
+    width: 90%;
+    margin-top: 10px; /* Reduce margin for smaller screens */
   }
 }
 
+.chatbot-container {
+  width: 80%; /* Dynamic width */
+  max-width: 1200px; /* Maintain a limit */
+  height: calc(100vh - 180px); /* Subtract header height dynamically */
+  background-color: #1E1E1E;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 0 auto; /* Center horizontally */
+  margin-top: 20px; /* Add space below the header */
+  overflow: hidden;
+  position: relative; /* Maintain proper alignment */
+}
+
+@media (max-width: 480px) {
+  .header {
+    font-size: 1.2rem; /* Smaller font for very narrow screens */
+    padding: 10px 0;
+    margin-bottom: 15px; /* Smaller spacing */
+  }
+
+  .chatbot-container {
+    height: calc(100vh - 130px); /* Further adjust for very small screens */
+    width: 95%;
+    margin-top: 5px; /* Minimal margin */
+    padding: 15px; /* Compact padding */
+  }
+}
+
+
+/* Messages Container */
+.messages-container {
+  flex: 1;
+  overflow-y: auto; /* Enable scrolling for overflowing messages */
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: #cf102d #333;
+}
+
+/* Input Container */
+.input-container {
+  display: flex;
+  gap: 10px;
+  padding: 15px;
+  background-color: #1e1e1e;
+  border-top: 1px solid #333;
+  position: sticky;
+  bottom: 0;
+}
