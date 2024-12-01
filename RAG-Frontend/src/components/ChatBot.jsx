@@ -59,8 +59,10 @@ const ChatBot = () => {
       setMessages((prev) => {
         const newMessages = [...prev];
         const lastMessage = newMessages[newMessages.length - 1];
+
+        // Render partial HTML during typewriting
         lastMessage.text = text.slice(0, index + 1);
-        lastMessage.isTyping = true; // Ensure typing animation persists during typewriter effect
+        lastMessage.isTyping = true;
         return newMessages;
       });
 
@@ -70,7 +72,7 @@ const ChatBot = () => {
         setMessages((prev) => {
           const newMessages = [...prev];
           const lastMessage = newMessages[newMessages.length - 1];
-          lastMessage.isTyping = false; // Stop typing animation once typewriter effect completes
+          lastMessage.isTyping = false; // Stop typing animation
           return newMessages;
         });
         clearInterval(interval);
@@ -88,7 +90,11 @@ const ChatBot = () => {
               msg.isUser ? "message user-message" : "message bot-message"
             }
           >
-            {msg.text}
+            {msg.isUser ? (
+              msg.text
+            ) : (
+              <div dangerouslySetInnerHTML={{ __html: msg.text }} />
+            )}
           </div>
         ))}
       </div>

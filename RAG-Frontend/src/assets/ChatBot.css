@@ -17,6 +17,15 @@
   margin-left: 5px;
   animation: blink 1s infinite;
 }
+.bot-message a {
+  color: #fff; /* White for better contrast */
+  text-decoration: underline;
+  transition: color 0.2s ease-in-out;
+  word-break: break-word; /* Break long URLs */
+}
+.bot-message a:hover {
+  color: #e3ba12; /* Gold color on hover */
+}
 
 /* Reset default margins and paddings */
 * {
@@ -41,16 +50,15 @@ body, html {
 
 
 .chatbot-container {
-    margin-top: 80px; /* Add margin to make space for the fixed header */
-    width: 800px;
-    height: 800px;
-    background-color: #1E1E1E;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 20px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 1200px; /* Maintain width */
+  min-height: 500px; /* Allow for growth */
+  background-color: #1E1E1E;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -64,7 +72,8 @@ body, html {
 .messages-container {
   flex: 1;
   overflow-y: auto; /* Enable vertical scrolling */
-  padding: 20px;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  padding: 15px;
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -87,13 +96,13 @@ body, html {
 .message {
   display: flex;
   align-items: flex-start;
-  max-width: 80%;
+  max-width: 100%;
   padding: 10px 15px;
   border-radius: 15px;
   line-height: 1.4;
   font-size: 16px;
   font-family: "Montserrat", sans-serif;
-  word-wrap: break-word;
+  word-wrap: break-word; /* Wrap long words */
 }
 .user-message {
   align-self: flex-end;
@@ -106,6 +115,7 @@ body, html {
   background-color: #cf102d; /* St. John's Red */
   color: #fff;
   border-top-left-radius: 0;
+  word-break: break-word; /* Ensure long text wraps */
 }
 
 /* Input Container */
