@@ -1,10 +1,9 @@
 # SJU-RAG
-This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website.  This project utilizes LangChain, OpenAI's LLM API's, and Pinecone for advanced vector search.  Combined with Django for a scalable, resilent backend and an intuitive React UI, we provice seamless AI-driven knowledge access.
+This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website.  This project utilizes LangChain, OpenAI's LLM API's, and Google's Programmable Search Engine to retrieve data and generate concise, relevant, and timely responses.  Combined with Django for a scalable, resilent backend and an intuitive React UI, we provice seamless AI-driven knowledge access.
   
 ## Stack 
 - React frontend
 - Django backend
-- Pinecone database
 
 ## Team 
 - Ryan: Team Leader, Full Stack 
@@ -19,18 +18,19 @@ This repository is for the CUS 690 Capstone class, building a RAG application fo
 ### APIs:
 - You'll need to create a `.env` file containing your own API keys.  You'll need the following fields:
     - `OPENAI_API_KEY`
-    - `PINECONE_API_KEY`
-    - `PINECONE_INDEX`
-- Ensure you have suficient funds in your accounts to create the embeddings and to use the model (about $10 in both Pinecone and OpenAI if you already use the platforms a lot)
+    - `GOOGLE_API_KEY`
+    - `GOOGLE_CSE_ID`
+- Ensure you have suficient funds in your accounts to create the embeddings and to use the model (about $10 in OpenAI if you already use the platforms a lot)
 
  ### Web Scraping & Index Population
-- Create a Pinecone index on their website using the OpenAI text-embedding-ada-002 embeddings with the cosine metric.  Add the index name as the value for `PINECONE_INDEX` to the .env file mentioned in the APIs section.
-- Using the environment.yml file provided, create an Anaconda Environment to run the Notebook with the URL & Web Scraper and Pinecone Loader.
+- Create a Programmable Search Engine on Google Cloud Platform and copy the CSE ID it gives you.  Do not use the entire web; just add the following three domains:
 ```sh
-conda env create -f environment.yml
+*.studentaid.gov/*
+*.torchonline.com/*
+*.stjohns.edu/*
 ```
-- Verify that the contents are in your index on the pinecone website.
-    - If so, you should now be able to run the RAG model using the steps below
+- Then, create an API key to use with this service through Google Cloud Platform.  Add the key and search engine ID to your .env file.
+- You can now use the RAG Model.
 
 ### Backend Reproduction:
 - Ensure you have Python version 3.9.18 installed
