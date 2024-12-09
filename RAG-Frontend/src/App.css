@@ -1,10 +1,13 @@
+/* Importing Web Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Open+Sans:wght@400;700&family=Sacramento&family=Source+Serif+Pro:wght@400;700&family=Verdana:wght@400;700&display=swap');
+
 /* Root Container */
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  font-family: 'Montserrat', sans-serif; /* Updated Font */
+  font-family: 'Georgia', serif; /* Sabon Replacement */
 }
 
 /* Header Styling */
@@ -13,9 +16,9 @@
   text-align: center;
   font-size: 2rem; /* Default font size */
   font-weight: bold;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Georgia', serif; /* Sabon Replacement */
   color: #fafafa;
-  padding: 20px 0;
+  padding: 5px 0;
   margin-bottom: 30px; /* Add consistent spacing below the header */
   transition: font-size 0.3s ease, padding 0.3s ease;
 }
@@ -49,6 +52,7 @@
   margin-top: 20px; /* Add space below the header */
   overflow: hidden;
   position: relative; /* Maintain proper alignment */
+  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
 }
 
 @media (max-width: 480px) {
@@ -62,10 +66,9 @@
     height: calc(100vh - 130px); /* Further adjust for very small screens */
     width: 95%;
     margin-top: 5px; /* Minimal margin */
-    padding: 15px; /* Compact padding */
+    padding: 20px; /* Compact padding */
   }
 }
-
 
 /* Messages Container */
 .messages-container {
@@ -78,6 +81,7 @@
   gap: 15px;
   scrollbar-width: thin; /* For Firefox */
   scrollbar-color: #cf102d #333;
+  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
 }
 
 /* Input Container */
@@ -89,4 +93,5 @@
   border-top: 1px solid #333;
   position: sticky;
   bottom: 0;
+  font-family: 'Georgia', serif; /* Sabon Replacement */
 }

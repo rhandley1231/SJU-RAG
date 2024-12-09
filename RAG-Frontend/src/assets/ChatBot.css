@@ -1,30 +1,78 @@
-/* Blinking cursor animation */
-@keyframes blink {
-  0%,
-  100% {
-    opacity: 1;
+/* Importing Web Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Open+Sans:wght@400;700&family=Sacramento&family=Source+Serif+Pro:wght@400;700&family=Verdana:wght@400;700&display=swap');
+
+/* Font Setup */
+.typing-indicator {
+  display: flex;
+  gap: 5px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  border-radius: 50%;
+  animation: typing 1.5s infinite;
+}
+
+.dot:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.dot:nth-child(3) {
+  animation-delay: 0.6s;
+}
+
+@keyframes typing {
+  0% {
+    opacity: 0.2;
   }
   50% {
-    opacity: 0;
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
   }
 }
 
-/* Bot message bubble with typewriter cursor */
-.bot-message.typing::after {
-  content: "|";
-  font-weight: bold;
-  color: #aaa;
-  margin-left: 5px;
-  animation: blink 1s infinite;
+/* Styling for bot messages */
+.bot-message {
+  align-self: flex-start;
+  background-color: #cf102d; /* St. John's Red */
+  color: #fff; /* White text for visibility */
+  padding: 10px 15px;
+  border-radius: 15px;
+  line-height: 1.8; /* Increase line height for readability */
+  font-size: 16px;
+  font-family: "Verdana", sans-serif; /* Frutiger Replacement */
+  word-wrap: break-word; /* Ensure long text wraps */
+  text-align: left; /* Left-align text */
+  border-top-left-radius: 0;
+  white-space: pre-wrap; /* Preserve line breaks and spacing */
 }
+
+/* Styling for hyperlinks in bot messages */
 .bot-message a {
-  color: #fff; /* White for better contrast */
+  color: #ffffff; 
   text-decoration: underline;
-  transition: color 0.2s ease-in-out;
-  word-break: break-word; /* Break long URLs */
+  font-weight: bold; /* Bold for emphasis */
+  word-break: break-word; /* Break long links */
 }
 .bot-message a:hover {
-  color: #e3ba12; /* Gold color on hover */
+  color: #e3ba12; /* Gold color for emphasis */
+}
+
+.bot-message ul {
+  margin: 10px 0;
+  padding-left: 20px; /* Indentation for bullet points */
+  color: #fff; /* White text for readability */
+}
+
+.bot-message li {
+  margin-bottom: 10px; /* Space between bullet points */
+  line-height: 1.5;
 }
 
 /* Reset default margins and paddings */
@@ -41,7 +89,7 @@ body, html {
     height: 100%;
     width: 100%;
     background: radial-gradient(circle,  #CF102D 50%, #051C2C 80%); /* Gradient background */
-    font-family: 'Montserrat', sans-serif; /* Consistent font */
+    font-family: 'Georgia', serif; /* Sabon Replacement */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,8 +107,8 @@ body, html {
   justify-content: space-between;
   padding: 20px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
 }
-
 
 @media (max-width: 768px) {
   .chatbot-container {
@@ -101,7 +149,7 @@ body, html {
   border-radius: 15px;
   line-height: 1.4;
   font-size: 16px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Verdana", sans-serif; /* Frutiger Replacement */
   word-wrap: break-word; /* Wrap long words */
 }
 .user-message {
@@ -109,13 +157,6 @@ body, html {
   background-color: #4a4a4a; /* Neutral gray */
   color: #fff;
   border-top-right-radius: 0;
-}
-.bot-message {
-  align-self: flex-start;
-  background-color: #cf102d; /* St. John's Red */
-  color: #fff;
-  border-top-left-radius: 0;
-  word-break: break-word; /* Ensure long text wraps */
 }
 
 /* Input Container */
@@ -127,6 +168,7 @@ body, html {
   border-top: 1px solid #333;
   position: sticky;
   bottom: 0;
+  font-family: "Georgia", serif; /* Sabon Replacement */
 }
 
 /* Input Field */
@@ -137,10 +179,11 @@ body, html {
   border-radius: 20px;
   background-color: #333;
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Georgia", serif;
 }
 .input-container input[type="text"]::placeholder {
   color: #aaa;
+  font-family: 'Georgia', serif;
 }
 
 /* Send Button */
@@ -170,4 +213,15 @@ body, html {
   stroke: #fff; /* White arrow for contrast */
   stroke-width: 3; /* Thicker stroke for visibility */
   fill: none; /* Ensure only the stroke is visible */
+}
+
+/* Additional Decorative Font for Specific Elements */
+.decorative {
+  font-family: 'Sacramento', cursive;
+}
+
+/* Headings for Social Media Section */
+.social-media-heading {
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bold;
 }

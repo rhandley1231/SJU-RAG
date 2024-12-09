@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "../assets/ChatBot.css";
 
@@ -6,6 +6,9 @@ const ChatBot = () => {
   const [query, setQuery] = useState("");
   const [messages, setMessages] = useState([]);
   const [sessionId, setSessionId] = useState(null); // Store session ID
+  const [isTyping, setIsTyping] = useState(false); // Track typing status
+
+  const messagesEndRef = useRef(null); // Ref to track the last message
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -14,6 +17,9 @@ const ChatBot = () => {
     // Add user's message to the chat history
     setMessages((prev) => [...prev, { text: query, isUser: true }]);
     setQuery(""); // Clear the input field
+
+    // Display typing indicator
+    setIsTyping(true);
 
     try {
       // Send request to the backend with session ID
@@ -28,13 +34,15 @@ const ChatBot = () => {
       // Update session ID if not already set
       if (!sessionId) setSessionId(result.data.session_id);
 
-      // Display bot response with typewriter effect
+      // Remove typing indicator and add the bot's response
+      setIsTyping(false);
       setMessages((prev) => [
         ...prev,
-        { text: "", isUser: false, isTyping: true },
+        { text: responseText, isUser: false },
       ]);
-      typewriterEffect(responseText);
     } catch (error) {
+      // Remove typing indicator and show an error message
+      setIsTyping(false);
       setMessages((prev) => [
         ...prev,
         { text: "An error occurred. Please try again.", isUser: false },
@@ -42,43 +50,12 @@ const ChatBot = () => {
     }
   };
 
-  const typewriterEffect = (text) => {
-    let index = 0;
-
-    setMessages((prev) => {
-      const newMessages = [...prev];
-      newMessages[newMessages.length - 1] = {
-        text: "",
-        isUser: false,
-        isTyping: true,
-      };
-      return newMessages;
-    });
-
-    const interval = setInterval(() => {
-      setMessages((prev) => {
-        const newMessages = [...prev];
-        const lastMessage = newMessages[newMessages.length - 1];
-
-        // Render partial HTML during typewriting
-        lastMessage.text = text.slice(0, index + 1);
-        lastMessage.isTyping = true;
-        return newMessages;
-      });
-
-      index++;
-
-      if (index >= text.length) {
-        setMessages((prev) => {
-          const newMessages = [...prev];
-          const lastMessage = newMessages[newMessages.length - 1];
-          lastMessage.isTyping = false; // Stop typing animation
-          return newMessages;
-        });
-        clearInterval(interval);
-      }
-    }, 50);
-  };
+  useEffect(() => {
+    // Scroll to the bottom whenever messages update
+    if (messagesEndRef.current) {
+      messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [messages, isTyping]);
 
   return (
     <div className="chatbot-container">
@@ -93,10 +70,22 @@ const ChatBot = () => {
             {msg.isUser ? (
               msg.text
             ) : (
-              <div dangerouslySetInnerHTML={{ __html: msg.text }} />
+              <div
+                className="bot-response"
+                dangerouslySetInnerHTML={{ __html: msg.text }}
+              />
             )}
           </div>
         ))}
+        {/* Typing indicator */}
+        {isTyping && (
+          <div className="message bot-message typing-indicator">
+            <span className="dot"></span>
+            <span className="dot"></span>
+            <span className="dot"></span>
+          </div>
+        )}
+        <div ref={messagesEndRef} /> {/* Reference to the end of messages */}
       </div>
       <form onSubmit={handleSubmit} className="input-container">
         <input
