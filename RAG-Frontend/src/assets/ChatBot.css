@@ -12,7 +12,7 @@
 .dot {
   width: 8px;
   height: 8px;
-  background-color: #fff;
+  background-color: #cf102d;
   border-radius: 50%;
   animation: typing 1.5s infinite;
 }
@@ -40,8 +40,8 @@
 /* Styling for bot messages */
 .bot-message {
   align-self: flex-start;
-  background-color: #cf102d; /* St. John's Red */
-  color: #fff; /* White text for visibility */
+  background-color: #F5F5F5; /* St. John's Red */
+  color: #000000; /* White text for visibility */
   padding: 10px 15px;
   border-radius: 15px;
   line-height: 1.8; /* Increase line height for readability */
@@ -55,13 +55,13 @@
 
 /* Styling for hyperlinks in bot messages */
 .bot-message a {
-  color: #ffffff; 
+  color: #000000; 
   text-decoration: underline;
   font-weight: bold; /* Bold for emphasis */
   word-break: break-word; /* Break long links */
 }
 .bot-message a:hover {
-  color: #e3ba12; /* Gold color for emphasis */
+  color: #BD2C33; /* Gold color for emphasis */
 }
 
 .bot-message ul {
@@ -88,7 +88,7 @@ body, html {
     padding: 0;
     height: 100%;
     width: 100%;
-    background: radial-gradient(circle,  #CF102D 50%, #051C2C 80%); /* Gradient background */
+    background: #ffffff; /* Gradient background */
     font-family: 'Georgia', serif; /* Sabon Replacement */
     display: flex;
     justify-content: center;
@@ -98,16 +98,16 @@ body, html {
 
 
 .chatbot-container {
-  max-width: 1200px; /* Maintain width */
+  max-width: 800px; /* Maintain width */
+  min-width: 500px;
   min-height: 500px; /* Allow for growth */
-  background-color: #1E1E1E;
+  background-color: #ffffff;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   padding: 20px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
+  font-family: 'Georgia', sans-serif; /* Frutiger Replacement */
 }
 
 @media (max-width: 768px) {
@@ -149,12 +149,12 @@ body, html {
   border-radius: 15px;
   line-height: 1.4;
   font-size: 16px;
-  font-family: "Verdana", sans-serif; /* Frutiger Replacement */
+  font-family: "Georgia", sans-serif; /* Frutiger Replacement */
   word-wrap: break-word; /* Wrap long words */
 }
 .user-message {
   align-self: flex-end;
-  background-color: #4a4a4a; /* Neutral gray */
+  background-color: #cf102d; /* Neutral gray */
   color: #fff;
   border-top-right-radius: 0;
 }
@@ -175,16 +175,28 @@ body, html {
 .input-container input[type="text"] {
   flex: 1;
   padding: 12px;
-  border: 1px solid #333;
+  border: 2px solid transparent; /* Start with no visible border */
   border-radius: 20px;
-  background-color: #333;
-  color: #fff;
+  background-color: #EEEEEE; /* Light gray background */
+  color: #000000; /* Black text */
   font-family: "Georgia", serif;
+  outline: none; /* Remove default focus outline */
+  transition: border-color 0.3s ease, box-shadow 0.3s ease; /* Smooth focus transition */
 }
+
+/* Placeholder Style */
 .input-container input[type="text"]::placeholder {
-  color: #aaa;
+  color: #aaa; /* Light gray placeholder */
   font-family: 'Georgia', serif;
 }
+
+/* Focus Style */
+.input-container input[type="text"]:focus {
+  border-color: #CF102D; /* St. John's Red border on focus */
+  box-shadow: 0 0 5px #CF102D; /* Optional: Subtle red glow on focus */
+  outline: none; /* Ensure no default outline appears */
+}
+
 
 /* Send Button */
 .input-container button {
