@@ -36,7 +36,7 @@ conda env create -f environment.yml
 - Ensure you have Python version 3.9.18 installed
 - Create a virtual environment in the main directory -- `SJU-RAG` -- to install your requirements in by running the following
 ```sh
-python3.9 -m venv venv
+python3 -m venv venv
 ```
 - Run the following command to activate the virtual environment
 ```sh
