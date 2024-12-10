@@ -17,9 +17,9 @@ This repository is for the CUS 690 Capstone class, building a RAG application fo
 ## Steps to Reproduce 
 ### APIs:
 - You'll need to create a `.env` file containing your own API keys.  You'll need the following fields:
-    - `OPENAI_API_KEY`
-    - `GOOGLE_API_KEY`
-    - `GOOGLE_CSE_ID`
+    - `OPENAI_API_KEY` (Open AI)[https://platform.openai.com/docs/overview]
+    - `GOOGLE_API_KEY` (Google Cloud Platform)[https://console.cloud.google.com/]
+    - `GOOGLE_CSE_ID`  (Programmable Search Engine)[https://programmablesearchengine.google.com/]
 - Ensure you have suficient funds in your accounts to create the embeddings and to use the model (about $10 in OpenAI if you already use the platforms a lot)
 
  ### Web Scraping & Index Population
