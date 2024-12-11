@@ -33,7 +33,7 @@ This repository is for the CUS 690 Capstone class, building a RAG application fo
 - You can now use the RAG Model.
 
 ### Backend Reproduction:
-- Ensure you have Python version 3.9.18 installed
+- Ensure you have Python version 3.11.9 installed
 - Create a virtual environment in the main directory -- `SJU-RAG` -- to install your requirements in by running the following
 ```sh
 python3 -m venv venv
