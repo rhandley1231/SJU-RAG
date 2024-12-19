@@ -55,7 +55,7 @@
   margin-top: 80px; /* Add space below the header */
   overflow: hidden;
   position: relative; /* Maintain proper alignment */
-  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
+  font-family: 'Georgia', sans-serif; /* Frutiger Replacement */
 }
 
 @media (max-width: 480px) {
@@ -84,7 +84,7 @@
   gap: 15px;
   scrollbar-width: thin; /* For Firefox */
   scrollbar-color: #cf102d #333;
-  font-family: 'Verdana', sans-serif; /* Frutiger Replacement */
+  font-family: 'Georgia', sans-serif; /* Frutiger Replacement */
 }
 
 /* Input Container */

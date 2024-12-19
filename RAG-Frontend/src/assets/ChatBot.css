@@ -46,7 +46,7 @@
   border-radius: 15px;
   line-height: 1.8; /* Increase line height for readability */
   font-size: 16px;
-  font-family: "Verdana", sans-serif; /* Frutiger Replacement */
+  font-family: "Georgia", sans-serif; /* Frutiger Replacement */
   word-wrap: break-word; /* Ensure long text wraps */
   text-align: left; /* Left-align text */
   border-top-left-radius: 0;
