@@ -1,5 +1,5 @@
 # SJU-RAG
-This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website.  This project utilizes LangChain, OpenAI's LLM API's, and Google's Programmable Search Engine to retrieve data and generate concise, relevant, and timely responses.  Combined with Django for a scalable, resilent backend and an intuitive React UI, we provice seamless AI-driven knowledge access.
+This repository is for the CUS 690 Capstone class, building a RAG application for the St John's Website.  This project utilizes LangChain, OpenAI's LLM API's, and Google's Programmable Search Engine to retrieve data and generate concise, relevant, and timely responses.  Combined with Django for a scalable, resilient backend and an intuitive React UI, we provice seamless AI-driven knowledge access.
   
 ## Stack 
 - React frontend
